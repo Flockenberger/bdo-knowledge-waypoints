@@ -2,6 +2,8 @@
 
 THIS REPOSITORY IS A WORK IN PROGRESS. STUFF MAY BE INCOMPLETE OR MISSING!
 
+Currently this repository contains 510 out of 898 knowledge categories, with missing entries inside those 510 as well, so keep that in mind!
+
 This repository contains a collection of Knowledge Waypoint files for Black Desert Online (BDO).
 These waypoints provide quick access to various in-game locations.
 
