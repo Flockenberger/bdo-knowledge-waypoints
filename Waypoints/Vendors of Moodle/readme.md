@@ -1,0 +1,37 @@
+# Vendors of Moodle
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: Vendors of Moodle
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Okja" PosX="-1310420.0" PosY="-7849.009765625" PosZ="1136640.0" />
+    <BookMark BookMarkName="Cheolsum" PosX="-1313260.0" PosY="-7869.919921875" PosZ="1134560.0" />
+    <BookMark BookMarkName="Jedeok" PosX="-1312260.0" PosY="-7889.64013671875" PosZ="1136220.0" />
+    <BookMark BookMarkName="Yangsook" PosX="-1309910.0" PosY="-7747.169921875" PosZ="1139290.0" />
+    <BookMark BookMarkName="Shinhee" PosX="-1320710.0" PosY="-7440.81005859375" PosZ="1131750.0" />
+    <BookMark BookMarkName="Noyoung" PosX="-1308690.0" PosY="-7825.52001953125" PosZ="1134440.0" />
+    <BookMark BookMarkName="Haehwa" PosX="-1312980.0" PosY="-7829.0498046875" PosZ="1134100.0" />
+    <BookMark BookMarkName="Bangchul" PosX="-1297120.0" PosY="-7708.5400390625" PosZ="1138310.0" />
+    <BookMark BookMarkName="Kwaksoo" PosX="-1320390.0" PosY="-7455.7900390625" PosZ="1129290.0" />
+    <BookMark BookMarkName="Hanshik" PosX="-1315150.0" PosY="-6292.10986328125" PosZ="1145020.0" />
+    <BookMark BookMarkName="Surong" PosX="-1312480.0" PosY="-7882.85009765625" PosZ="1135250.0" />
+    <BookMark BookMarkName="Okyoung" PosX="-1312180.0" PosY="-7861.3701171875" PosZ="1135450.0" />
+    <BookMark BookMarkName="Namwook" PosX="-1318990.0" PosY="-7434.0498046875" PosZ="1128170.0" />
+</WorldmapBookMark>
+```
+
+<img src="./Vendors of Moodle_Okja_Preview.webp" width="450"/> <img src="./Vendors of Moodle_Cheolsum_Preview.webp" width="450"/> <img src="./Vendors of Moodle_Jedeok_Preview.webp" width="450"/> <img src="./Vendors of Moodle_Yangsook_Preview.webp" width="450"/> <img src="./Vendors of Moodle_Shinhee_Preview.webp" width="450"/> <img src="./Vendors of Moodle_Noyoung_Preview.webp" width="450"/> <img src="./Vendors of Moodle_Haehwa_Preview.webp" width="450"/> <img src="./Vendors of Moodle_Bangchul_Preview.webp" width="450"/> <img src="./Vendors of Moodle_Kwaksoo_Preview.webp" width="450"/> <img src="./Vendors of Moodle_Hanshik_Preview.webp" width="450"/> <img src="./Vendors of Moodle_Surong_Preview.webp" width="450"/> <img src="./Vendors of Moodle_Okyoung_Preview.webp" width="450"/> <img src="./Vendors of Moodle_Namwook_Preview.webp" width="450"/> 

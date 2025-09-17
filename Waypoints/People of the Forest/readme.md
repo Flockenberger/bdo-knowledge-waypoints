@@ -1,0 +1,38 @@
+# People of the Forest
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: People of the Forest
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Koirin" PosX="-348122.0" PosY="10622.2998046875" PosZ="-252818.984375" />
+    <BookMark BookMarkName="Becker" PosX="-262943.0" PosY="5830.41015625" PosZ="-230428.0" />
+    <BookMark BookMarkName="Dyleoyen" PosX="-347949.0" PosY="16367.099609375" PosZ="-255683.0" />
+    <BookMark BookMarkName="Sayena" PosX="-347552.0" PosY="13558.7998046875" PosZ="-253897.0" />
+    <BookMark BookMarkName="Nelydormin" PosX="-347632.0" PosY="13985.099609375" PosZ="-255743.0" />
+    <BookMark BookMarkName="Luwensley" PosX="-346442.0" PosY="13496.5" PosZ="-256325.0" />
+    <BookMark BookMarkName="Herio" PosX="-322785.0" PosY="9625.0703125" PosZ="-253961.0" />
+    <BookMark BookMarkName="Crie" PosX="-330235.0" PosY="9863.8603515625" PosZ="-263866.0" />
+    <BookMark BookMarkName="Spig" PosX="-282274.0" PosY="3832.4599609375" PosZ="-230531.0" />
+    <BookMark BookMarkName="Likke Behr" PosX="-286407.0" PosY="4733.77001953125" PosZ="-239541.0" />
+    <BookMark BookMarkName="Bjorn" PosX="-285239.0" PosY="4772.02978515625" PosZ="-237937.0" />
+    <BookMark BookMarkName="Jensen" PosX="-281912.0" PosY="4621.43994140625" PosZ="-235395.0" />
+    <BookMark BookMarkName="Triee" PosX="-284415.0" PosY="3745.35009765625" PosZ="-229429.0" />
+    <BookMark BookMarkName="Indri" PosX="-287955.0" PosY="4444.93994140625" PosZ="-235125.0" />
+</WorldmapBookMark>
+```
+
+<img src="./People of the Forest_Koirin_Preview.webp" width="450"/> <img src="./People of the Forest_Becker_Preview.webp" width="450"/> <img src="./People of the Forest_Dyleoyen_Preview.webp" width="450"/> <img src="./People of the Forest_Sayena_Preview.webp" width="450"/> <img src="./People of the Forest_Nelydormin_Preview.webp" width="450"/> <img src="./People of the Forest_Luwensley_Preview.webp" width="450"/> <img src="./People of the Forest_Herio_Preview.webp" width="450"/> <img src="./People of the Forest_Crie_Preview.webp" width="450"/> <img src="./People of the Forest_Spig_Preview.webp" width="450"/> <img src="./People of the Forest_Likke Behr_Preview.webp" width="450"/> <img src="./People of the Forest_Bjorn_Preview.webp" width="450"/> <img src="./People of the Forest_Jensen_Preview.webp" width="450"/> <img src="./People of the Forest_Triee_Preview.webp" width="450"/> <img src="./People of the Forest_Indri_Preview.webp" width="450"/> 

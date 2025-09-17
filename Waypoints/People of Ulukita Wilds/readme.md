@@ -1,0 +1,68 @@
+# People of Ulukita Wilds
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: People of Ulukita Wilds
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Ulgenil" PosX="358568.0" PosY="-165.47999572753906" PosZ="-319496.0" />
+    <BookMark BookMarkName="Meryal" PosX="358965.0" PosY="553.6799926757812" PosZ="-315576.0" />
+    <BookMark BookMarkName="Feyyaz" PosX="363277.5625" PosY="453.6600036621094" PosZ="-312713.53125" />
+    <BookMark BookMarkName="Ricter" PosX="352538.0" PosY="-1017.3300170898438" PosZ="-316006.0" />
+    <BookMark BookMarkName="Ismail" PosX="362039.0" PosY="600.9099731445312" PosZ="-317425.0" />
+    <BookMark BookMarkName="Fadil" PosX="355835.1875" PosY="1710.6800537109375" PosZ="-308185.65625" />
+    <BookMark BookMarkName="Dematur" PosX="363558.0" PosY="847.969970703125" PosZ="-321018.0" />
+    <BookMark BookMarkName="Ruveyda" PosX="363980.0" PosY="998.3300170898438" PosZ="-316210.0" />
+    <BookMark BookMarkName="Karim" PosX="363709.0" PosY="757.739990234375" PosZ="-320676.0" />
+    <BookMark BookMarkName="Rifat" PosX="357878.0" PosY="-356.4590148925781" PosZ="-319215.0" />
+    <BookMark BookMarkName="Cemil" PosX="358915.0" PosY="507.0299987792969" PosZ="-313563.0" />
+    <BookMark BookMarkName="Anidane Sen" PosX="360797.0" PosY="258.1099853515625" PosZ="-320662.0" />
+    <BookMark BookMarkName="Mahsar" PosX="338784.0" PosY="-2334.830078125" PosZ="-325335.4375" />
+    <BookMark BookMarkName="Varin Kamar" PosX="369431.65625" PosY="3460.070068359375" PosZ="-362924.15625" />
+    <BookMark BookMarkName="Teltain" PosX="448578.3125" PosY="4164.27001953125" PosZ="-313552.9375" />
+    <BookMark BookMarkName="Kahdisa" PosX="502107.0" PosY="-1007.469970703125" PosZ="-308786.0" />
+    <BookMark BookMarkName="Gentle Navis" PosX="277894.0" PosY="15714.7998046875" PosZ="-397121.0" />
+    <BookMark BookMarkName="Dimelt" PosX="309360.0" PosY="24291.599609375" PosZ="-376837.0" />
+    <BookMark BookMarkName="Kal Tahn" PosX="380113.0" PosY="10102.5" PosZ="-280702.0" />
+    <BookMark BookMarkName="Lunione" PosX="409956.0" PosY="12346.599609375" PosZ="-296335.0" />
+    <BookMark BookMarkName="Luniere" PosX="410211.0" PosY="12346.599609375" PosZ="-296276.0" />
+    <BookMark BookMarkName="Zan" PosX="380515.0" PosY="10084.900390625" PosZ="-281627.0" />
+    <BookMark BookMarkName="Zum" PosX="410794.0" PosY="12203.099609375" PosZ="-294792.0" />
+    <BookMark BookMarkName="Phan" PosX="391313.0" PosY="11303.400390625" PosZ="-282908.0" />
+    <BookMark BookMarkName="Sandor" PosX="337583.0" PosY="-1486.8499755859375" PosZ="-310359.0" />
+    <BookMark BookMarkName="Nadekron" PosX="341212.0" PosY="4607.6201171875" PosZ="-299609.0" />
+    <BookMark BookMarkName="Sunnak" PosX="362242.0" PosY="609.1900024414062" PosZ="-317128.0" />
+    <BookMark BookMarkName="Vusla" PosX="262386.40625" PosY="-3043.31005859375" PosZ="-305405.5625" />
+    <BookMark BookMarkName="Inshalun" PosX="491596.46875" PosY="-6655.2998046875" PosZ="-252211.40625" />
+    <BookMark BookMarkName="Krizalun" PosX="403118.0" PosY="-1178.739990234375" PosZ="-212650.0" />
+    <BookMark BookMarkName="Ezrin" PosX="439359.0" PosY="721.1099853515625" PosZ="-256495.0" />
+    <BookMark BookMarkName="Baykurt" PosX="266015.0" PosY="-3335.780029296875" PosZ="-300839.0" />
+    <BookMark BookMarkName="Ab Aziz" PosX="284900.0" PosY="-4431.919921875" PosZ="-284300.0" />
+    <BookMark BookMarkName="Delpha" PosX="289806.15625" PosY="-4356.9599609375" PosZ="-317938.90625" />
+    <BookMark BookMarkName="Al Kameem" PosX="331047.0" PosY="10542.7001953125" PosZ="-276548.0" />
+    <BookMark BookMarkName="Ulubala" PosX="352545.0" PosY="4527.669921875" PosZ="-260531.0" />
+    <BookMark BookMarkName="Yurhi" PosX="501005.0" PosY="-1270.68994140625" PosZ="-316831.0" />
+    <BookMark BookMarkName="Bin Salik" PosX="502516.0" PosY="-1261.6500244140625" PosZ="-316716.0" />
+    <BookMark BookMarkName="Zraiman" PosX="500984.0" PosY="-951.030029296875" PosZ="-308578.0" />
+    <BookMark BookMarkName="Vahik" PosX="502022.0" PosY="-1269.1600341796875" PosZ="-316327.0" />
+    <BookMark BookMarkName="Gormun" PosX="501074.0" PosY="-1272.489990234375" PosZ="-317263.0" />
+    <BookMark BookMarkName="Demba" PosX="444685.0" PosY="1282.8399658203125" PosZ="-252857.0" />
+    <BookMark BookMarkName="Kiros" PosX="441804.0" PosY="498.6199951171875" PosZ="-256918.140625" />
+    <BookMark BookMarkName="Neto" PosX="281600.53125" PosY="-4568.85009765625" PosZ="-282623.25" />
+</WorldmapBookMark>
+```
+
+<img src="./People of Ulukita Wilds_Ulgenil_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Meryal_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Feyyaz_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Ricter_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Ismail_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Fadil_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Dematur_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Ruveyda_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Karim_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Rifat_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Cemil_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Anidane Sen_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Mahsar_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Varin Kamar_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Teltain_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Kahdisa_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Gentle Navis_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Dimelt_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Kal Tahn_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Lunione_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Luniere_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Zan_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Zum_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Phan_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Sandor_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Nadekron_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Sunnak_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Vusla_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Inshalun_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Krizalun_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Ezrin_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Baykurt_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Ab Aziz_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Delpha_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Al Kameem_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Ulubala_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Yurhi_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Bin Salik_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Zraiman_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Vahik_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Gormun_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Demba_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Kiros_Preview.webp" width="450"/> <img src="./People of Ulukita Wilds_Neto_Preview.webp" width="450"/> 

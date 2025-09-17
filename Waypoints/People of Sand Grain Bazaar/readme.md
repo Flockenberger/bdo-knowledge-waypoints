@@ -1,0 +1,36 @@
+# People of Sand Grain Bazaar
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: People of Sand Grain Bazaar
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Xerxes" PosX="597679.0" PosY="13812.099609375" PosZ="46629.0" />
+    <BookMark BookMarkName="Tavu" PosX="597488.0" PosY="13655.7001953125" PosZ="46968.0" />
+    <BookMark BookMarkName="Roxanna" PosX="588520.0" PosY="16583.69921875" PosZ="31026.599609375" />
+    <BookMark BookMarkName="Berhie" PosX="594239.0" PosY="15809.099609375" PosZ="36029.69921875" />
+    <BookMark BookMarkName="Karashu" PosX="586541.0" PosY="19190.900390625" PosZ="38914.3984375" />
+    <BookMark BookMarkName="Bochlo" PosX="591554.0" PosY="13757.099609375" PosZ="48710.6015625" />
+    <BookMark BookMarkName="Buchrin" PosX="594022.0" PosY="15818.099609375" PosZ="34580.30078125" />
+    <BookMark BookMarkName="Godulateman" PosX="586323.0" PosY="19262.80078125" PosZ="37649.6015625" />
+    <BookMark BookMarkName="Binvane" PosX="594257.0" PosY="15810.5" PosZ="39632.6015625" />
+    <BookMark BookMarkName="Manal" PosX="591714.0" PosY="14988.0" PosZ="44230.6015625" />
+    <BookMark BookMarkName="Kulahuth" PosX="587159.0" PosY="18929.099609375" PosZ="34843.0" />
+    <BookMark BookMarkName="Waida" PosX="593507.0" PosY="15832.900390625" PosZ="33928.3984375" />
+</WorldmapBookMark>
+```
+
+<img src="./People of Sand Grain Bazaar_Xerxes_Preview.webp" width="450"/> <img src="./People of Sand Grain Bazaar_Tavu_Preview.webp" width="450"/> <img src="./People of Sand Grain Bazaar_Roxanna_Preview.webp" width="450"/> <img src="./People of Sand Grain Bazaar_Berhie_Preview.webp" width="450"/> <img src="./People of Sand Grain Bazaar_Karashu_Preview.webp" width="450"/> <img src="./People of Sand Grain Bazaar_Bochlo_Preview.webp" width="450"/> <img src="./People of Sand Grain Bazaar_Buchrin_Preview.webp" width="450"/> <img src="./People of Sand Grain Bazaar_Godulateman_Preview.webp" width="450"/> <img src="./People of Sand Grain Bazaar_Binvane_Preview.webp" width="450"/> <img src="./People of Sand Grain Bazaar_Manal_Preview.webp" width="450"/> <img src="./People of Sand Grain Bazaar_Kulahuth_Preview.webp" width="450"/> <img src="./People of Sand Grain Bazaar_Waida_Preview.webp" width="450"/> 

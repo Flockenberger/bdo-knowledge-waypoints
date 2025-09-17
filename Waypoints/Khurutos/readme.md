@@ -1,0 +1,37 @@
+# Khurutos
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: Khurutos
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Khuruto Shaman" PosX="-148101.984375" PosY="1260.260009765625" PosZ="334.8999938964844" />
+    <BookMark BookMarkName="Khuruto Fighter" PosX="-152267.96875" PosY="1616.3900146484375" PosZ="208.5800018310547" />
+    <BookMark BookMarkName="Small Khuruto" PosX="-174082.96875" PosY="-819.010009765625" PosZ="-15995.900390625" />
+    <BookMark BookMarkName="Khuruto Soldier" PosX="-160209.984375" PosY="291.57000732421875" PosZ="1266.7099609375" />
+    <BookMark BookMarkName="Khuruto Elite Soldier" PosX="-167261.96875" PosY="346.2900085449219" PosZ="-8422.0703125" />
+    <BookMark BookMarkName="Khuruto Pot" PosX="-157419.96875" PosY="1216.6500244140625" PosZ="-7007.43994140625" />
+    <BookMark BookMarkName="Khuruto Tent" PosX="-162020.96875" PosY="217.5500030517578" PosZ="166.86000061035156" />
+    <BookMark BookMarkName="Khuruto Ration Depot" PosX="-151077.96875" PosY="1453.3800048828125" PosZ="-12162.7998046875" />
+    <BookMark BookMarkName="Khuruto Wooden Totem" PosX="-148784.0" PosY="1355.22998046875" PosZ="-16.56999969482422" />
+    <BookMark BookMarkName="Khuruto Amulet" PosX="-176080.96875" PosY="-795.219970703125" PosZ="-7834.64013671875" />
+    <BookMark BookMarkName="Khuruto Resting Area" PosX="-150728.96875" PosY="1612.1099853515625" PosZ="-3538.1201171875" />
+    <BookMark BookMarkName="Khuruto Sacrifice" PosX="-167048.984375" PosY="-4979.14990234375" PosZ="-17884.7890625" />
+    <BookMark BookMarkName="Khuruto Prison" PosX="-155256.96875" PosY="1208.050048828125" PosZ="-9323.0498046875" />
+</WorldmapBookMark>
+```
+
+<img src="./Khurutos_Khuruto Shaman_Preview.webp" width="450"/> <img src="./Khurutos_Khuruto Fighter_Preview.webp" width="450"/> <img src="./Khurutos_Small Khuruto_Preview.webp" width="450"/> <img src="./Khurutos_Khuruto Soldier_Preview.webp" width="450"/> <img src="./Khurutos_Khuruto Elite Soldier_Preview.webp" width="450"/> <img src="./Khurutos_Khuruto Pot_Preview.webp" width="450"/> <img src="./Khurutos_Khuruto Tent_Preview.webp" width="450"/> <img src="./Khurutos_Khuruto Ration Depot_Preview.webp" width="450"/> <img src="./Khurutos_Khuruto Wooden Totem_Preview.webp" width="450"/> <img src="./Khurutos_Khuruto Amulet_Preview.webp" width="450"/> <img src="./Khurutos_Khuruto Resting Area_Preview.webp" width="450"/> <img src="./Khurutos_Khuruto Sacrifice_Preview.webp" width="450"/> <img src="./Khurutos_Khuruto Prison_Preview.webp" width="450"/> 

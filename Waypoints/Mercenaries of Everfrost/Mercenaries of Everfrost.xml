@@ -1,0 +1,13 @@
+<!--
+    Waypoints for: Mercenaries of Everfrost
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Igen" PosX="196179.015625" PosY="24231.900390625" PosZ="-420724.125" />
+    <BookMark BookMarkName="Harold" PosX="197100.0" PosY="24867.099609375" PosZ="-424952.0" />
+    <BookMark BookMarkName="Temujin" PosX="188415.921875" PosY="27671.099609375" PosZ="-425910.09375" />
+    <BookMark BookMarkName="Tergen" PosX="200570.96875" PosY="25010.69921875" PosZ="-420590.09375" />
+    <BookMark BookMarkName="Tamir" PosX="92228.6015625" PosY="18621.900390625" PosZ="-490970.0" />
+    <BookMark BookMarkName="Leviola" PosX="93185.3828125" PosY="19401.900390625" PosZ="-489064.0625" />
+    <BookMark BookMarkName="Gerald" PosX="203582.0625" PosY="25617.80078125" PosZ="-426251.0625" />
+</WorldmapBookMark>

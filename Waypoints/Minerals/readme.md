@@ -1,0 +1,54 @@
+# Minerals
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: Minerals
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Bloodstone" PosX="-129683.0" PosY="6136.27978515625" PosZ="-82614.203125" />
+    <BookMark BookMarkName="Andesite" PosX="-142684.0" PosY="2923.43994140625" PosZ="-273046.0" />
+    <BookMark BookMarkName="Mudstone" PosX="143736.0" PosY="2156.5" PosZ="63252.0" />
+    <BookMark BookMarkName="Sandstone" PosX="-219103.0" PosY="-776.8460083007812" PosZ="35210.0" />
+    <BookMark BookMarkName="Coal" PosX="143736.0" PosY="2156.5" PosZ="63252.0" />
+    <BookMark BookMarkName="Volcanic Rock" PosX="1081450.0" PosY="10677.2001953125" PosZ="519975.0" />
+    <BookMark BookMarkName="Iron" PosX="-130557.0" PosY="2169.860107421875" PosZ="-126723.0" />
+    <BookMark BookMarkName="Gold" PosX="-267510.0" PosY="14242.7998046875" PosZ="-255407.0" />
+    <BookMark BookMarkName="Beryl" PosX="-142109.0" PosY="-1378.0" PosZ="-159372.0" />
+    <BookMark BookMarkName="Diamond" PosX="-140191.0" PosY="-1580.0" PosZ="-163103.0" />
+    <BookMark BookMarkName="Copper" PosX="-178274.0" PosY="2280.159912109375" PosZ="-210122.0" />
+    <BookMark BookMarkName="Bryophyte" PosX="-142684.0" PosY="2923.43994140625" PosZ="-273046.0" />
+    <BookMark BookMarkName="Diorite" PosX="143736.0" PosY="2156.5" PosZ="63252.0" />
+    <BookMark BookMarkName="Granite" PosX="-219103.0" PosY="-776.8460083007812" PosZ="35210.0" />
+    <BookMark BookMarkName="Feldspar" PosX="-126047.0" PosY="1353.02001953125" PosZ="-134994.0" />
+    <BookMark BookMarkName="Rainbow Stone" PosX="-142109.0" PosY="-1378.0" PosZ="-159372.0" />
+    <BookMark BookMarkName="Black Quartz" PosX="-142109.0" PosY="-1378.0" PosZ="-159372.0" />
+    <BookMark BookMarkName="Green Quartz" PosX="-140191.0" PosY="-1580.0" PosZ="-163103.0" />
+    <BookMark BookMarkName="Red Quartz" PosX="-178274.0" PosY="2280.159912109375" PosZ="-210122.0" />
+    <BookMark BookMarkName="Muddy Quartz" PosX="-129683.0" PosY="6136.27978515625" PosZ="-82614.203125" />
+    <BookMark BookMarkName="Clear Quartz" PosX="-142684.0" PosY="2923.43994140625" PosZ="-273046.0" />
+    <BookMark BookMarkName="Opal" PosX="-219103.0" PosY="-776.8460083007812" PosZ="35210.0" />
+    <BookMark BookMarkName="Zinc" PosX="-193693.0" PosY="2402.0" PosZ="-149179.0" />
+    <BookMark BookMarkName="Topaz" PosX="-251699.0" PosY="-3069.570068359375" PosZ="-45499.3984375" />
+    <BookMark BookMarkName="Silver" PosX="-144873.0" PosY="3967.0" PosZ="-159730.0" />
+    <BookMark BookMarkName="Sapphire" PosX="-181507.0" PosY="-1801.5" PosZ="-128831.0" />
+    <BookMark BookMarkName="Ruby" PosX="-251812.0" PosY="-3095.679931640625" PosZ="-45255.5" />
+    <BookMark BookMarkName="Tin" PosX="-128993.0" PosY="6633.22021484375" PosZ="-80058.5" />
+    <BookMark BookMarkName="Platinum" PosX="-143318.0" PosY="3347.77001953125" PosZ="-210683.0" />
+    <BookMark BookMarkName="Lead" PosX="-136038.0" PosY="6081.02001953125" PosZ="-231756.0" />
+</WorldmapBookMark>
+```
+
+<img src="./Minerals_Bloodstone_Preview.webp" width="450"/> <img src="./Minerals_Andesite_Preview.webp" width="450"/> <img src="./Minerals_Mudstone_Preview.webp" width="450"/> <img src="./Minerals_Sandstone_Preview.webp" width="450"/> <img src="./Minerals_Coal_Preview.webp" width="450"/> <img src="./Minerals_Volcanic Rock_Preview.webp" width="450"/> <img src="./Minerals_Iron_Preview.webp" width="450"/> <img src="./Minerals_Gold_Preview.webp" width="450"/> <img src="./Minerals_Beryl_Preview.webp" width="450"/> <img src="./Minerals_Diamond_Preview.webp" width="450"/> <img src="./Minerals_Copper_Preview.webp" width="450"/> <img src="./Minerals_Bryophyte_Preview.webp" width="450"/> <img src="./Minerals_Diorite_Preview.webp" width="450"/> <img src="./Minerals_Granite_Preview.webp" width="450"/> <img src="./Minerals_Feldspar_Preview.webp" width="450"/> <img src="./Minerals_Rainbow Stone_Preview.webp" width="450"/> <img src="./Minerals_Black Quartz_Preview.webp" width="450"/> <img src="./Minerals_Green Quartz_Preview.webp" width="450"/> <img src="./Minerals_Red Quartz_Preview.webp" width="450"/> <img src="./Minerals_Muddy Quartz_Preview.webp" width="450"/> <img src="./Minerals_Clear Quartz_Preview.webp" width="450"/> <img src="./Minerals_Opal_Preview.webp" width="450"/> <img src="./Minerals_Zinc_Preview.webp" width="450"/> <img src="./Minerals_Topaz_Preview.webp" width="450"/> <img src="./Minerals_Silver_Preview.webp" width="450"/> <img src="./Minerals_Sapphire_Preview.webp" width="450"/> <img src="./Minerals_Ruby_Preview.webp" width="450"/> <img src="./Minerals_Tin_Preview.webp" width="450"/> <img src="./Minerals_Platinum_Preview.webp" width="450"/> <img src="./Minerals_Lead_Preview.webp" width="450"/> 

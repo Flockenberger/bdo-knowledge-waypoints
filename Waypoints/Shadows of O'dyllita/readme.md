@@ -1,0 +1,38 @@
+# Shadows of O'dyllita
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: Shadows of O'dyllita
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="O'dyllita Castle Musical Spirit" PosX="-299086.0" PosY="-5388.06005859375" PosZ="-643792.0" />
+    <BookMark BookMarkName="Kiena" PosX="-315932.0" PosY="11635.7001953125" PosZ="-466146.0" />
+    <BookMark BookMarkName="Arienne" PosX="-298081.96875" PosY="25428.099609375" PosZ="-506766.96875" />
+    <BookMark BookMarkName="Ascetic" PosX="-254817.0" PosY="5788.06005859375" PosZ="-591692.0" />
+    <BookMark BookMarkName="Denulo" PosX="-215241.40625" PosY="22128.26953125" PosZ="-511998.4375" />
+    <BookMark BookMarkName="Penella" PosX="-262065.140625" PosY="16046.2001953125" PosZ="-526278.8125" />
+    <BookMark BookMarkName="Vencheloa" PosX="-297280.0" PosY="25417.80078125" PosZ="-507607.96875" />
+    <BookMark BookMarkName="Lizella Aeo" PosX="-362209.875" PosY="-222.47000122070312" PosZ="-547116.0" />
+    <BookMark BookMarkName="Monjur Einel" PosX="-358595.0" PosY="-6345.7099609375" PosZ="-556942.0" />
+    <BookMark BookMarkName="Jortina" PosX="-360862.0" PosY="-220.4499969482422" PosZ="-548587.0" />
+    <BookMark BookMarkName="Nutanta" PosX="-305662.0" PosY="6257.8701171875" PosZ="-583460.0" />
+    <BookMark BookMarkName="White Frog" PosX="-267318.03125" PosY="5200.31982421875" PosZ="-600959.0" />
+    <BookMark BookMarkName="Neltia" PosX="-321532.3125" PosY="-7875.740234375" PosZ="-608647.375" />
+    <BookMark BookMarkName="Asana" PosX="-212923.0625" PosY="29138.80078125" PosZ="-493461.0" />
+</WorldmapBookMark>
+```
+
+<img src="./Shadows of O'dyllita_O'dyllita Castle Musical Spirit_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_Kiena_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_Arienne_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_Ascetic_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_Denulo_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_Penella_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_Vencheloa_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_Lizella Aeo_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_Monjur Einel_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_Jortina_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_Nutanta_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_White Frog_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_Neltia_Preview.webp" width="450"/> <img src="./Shadows of O'dyllita_Asana_Preview.webp" width="450"/> 

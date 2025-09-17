@@ -1,0 +1,10 @@
+<!--
+    Waypoints for: Outer Mediah
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Mediah Castle" PosX="297341.0" PosY="-4712.240234375" PosZ="70972.3203125" />
+    <BookMark BookMarkName="Sausan Harbor" PosX="249255.0" PosY="-7989.97021484375" PosZ="143070.0" />
+    <BookMark BookMarkName="Mediah Shore" PosX="247844.0" PosY="-6299.83984375" PosZ="38672.80078125" />
+    <BookMark BookMarkName="Sausan Garrison" PosX="215492.03125" PosY="-3614.760009765625" PosZ="126477.0" />
+</WorldmapBookMark>

@@ -1,0 +1,11 @@
+<!--
+    Waypoints for: Calpheon Territory (Wharf Manager)
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Bartholomeo" PosX="-244450.0" PosY="-4001.719970703125" PosZ="-48939.19921875" />
+    <BookMark BookMarkName="Torphin" PosX="-80112.296875" PosY="-3890.429931640625" PosZ="-68388.796875" />
+    <BookMark BookMarkName="Silen" PosX="37254.0" PosY="-3820.219970703125" PosZ="-50722.3984375" />
+    <BookMark BookMarkName="Barossa" PosX="-73735.703125" PosY="-4383.240234375" PosZ="38782.69921875" />
+    <BookMark BookMarkName="Croix" PosX="7112.56982421875" PosY="-7827.759765625" PosZ="93635.5" />
+</WorldmapBookMark>

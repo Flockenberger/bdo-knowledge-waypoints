@@ -1,0 +1,32 @@
+# Nagas
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: Nagas
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Ambushed Naga" PosX="36289.6015625" PosY="-3862.8701171875" PosZ="-50441.62109375" />
+    <BookMark BookMarkName="Naga Hut" PosX="-1012.4099731445312" PosY="-714.1500244140625" PosZ="-96085.8671875" />
+    <BookMark BookMarkName="Naga Guard Tower" PosX="7891.81005859375" PosY="-787.1199951171875" PosZ="-95219.0703125" />
+    <BookMark BookMarkName="Swamp Naga Commander" PosX="-32998.30078125" PosY="-2225.360107421875" PosZ="-108600.0234375" />
+    <BookMark BookMarkName="Swamp Naga Axeman" PosX="-33485.30078125" PosY="-2223.179931640625" PosZ="-107987.0234375" />
+    <BookMark BookMarkName="Swamp Naga Apprentice Axeman" PosX="-5058.080078125" PosY="-858.77001953125" PosZ="-100137.03125" />
+    <BookMark BookMarkName="Swamp Naga Apprentice Spearman" PosX="-31442.5" PosY="-2360.949951171875" PosZ="-114251.0234375" />
+    <BookMark BookMarkName="Swamp Naga" PosX="-34375.19921875" PosY="-2360.949951171875" PosZ="-113505.0234375" />
+</WorldmapBookMark>
+```
+
+<img src="./Nagas_Ambushed Naga_Preview.webp" width="450"/> <img src="./Nagas_Naga Hut_Preview.webp" width="450"/> <img src="./Nagas_Naga Guard Tower_Preview.webp" width="450"/> <img src="./Nagas_Swamp Naga Commander_Preview.webp" width="450"/> <img src="./Nagas_Swamp Naga Axeman_Preview.webp" width="450"/> <img src="./Nagas_Swamp Naga Apprentice Axeman_Preview.webp" width="450"/> <img src="./Nagas_Swamp Naga Apprentice Spearman_Preview.webp" width="450"/> <img src="./Nagas_Swamp Naga_Preview.webp" width="450"/> 

@@ -1,0 +1,38 @@
+# Quarry
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: Quarry
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Half-petrified Miner" PosX="-140983.984375" PosY="-1828.7099609375" PosZ="-161375.96875" />
+    <BookMark BookMarkName="Petrified Miner" PosX="-150182.984375" PosY="1847.9599609375" PosZ="-123221.9765625" />
+    <BookMark BookMarkName="Rock Spider" PosX="-137399.0" PosY="728.4940185546875" PosZ="-148516.0" />
+    <BookMark BookMarkName="Petrifying Worker" PosX="-133430.0" PosY="1416.4300537109375" PosZ="-98227.296875" />
+    <BookMark BookMarkName="Golem Spider" PosX="-156156.0" PosY="508.51800537109375" PosZ="-108743.0" />
+    <BookMark BookMarkName="Petrifying Berserk Miner" PosX="-136419.109375" PosY="6299.5498046875" PosZ="-79200.0" />
+    <BookMark BookMarkName="Petrifying Foreman" PosX="-139988.0" PosY="2207.320068359375" PosZ="-85322.9765625" />
+    <BookMark BookMarkName="Junk Pile" PosX="-154970.0" PosY="1488.6700439453125" PosZ="-98536.0" />
+    <BookMark BookMarkName="Petrifying Dwarf" PosX="-144763.0" PosY="416.7200012207031" PosZ="-89950.796875" />
+    <BookMark BookMarkName="Petrifying Bomber" PosX="-143476.0" PosY="2158.25" PosZ="-74313.5" />
+    <BookMark BookMarkName="Keplan Catapult" PosX="-147053.0" PosY="2575.9599609375" PosZ="-76499.296875" />
+    <BookMark BookMarkName="Keplan Saw" PosX="-144770.0" PosY="2589.27001953125" PosZ="-73065.0" />
+    <BookMark BookMarkName="Junk Golem" PosX="-149276.0" PosY="276.97900390625" PosZ="-118639.0" />
+    <BookMark BookMarkName="Petrifying Miner" PosX="-139020.0" PosY="6249.9599609375" PosZ="-78499.6015625" />
+</WorldmapBookMark>
+```
+
+<img src="./Quarry_Half-petrified Miner_Preview.webp" width="450"/> <img src="./Quarry_Petrified Miner_Preview.webp" width="450"/> <img src="./Quarry_Rock Spider_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Worker_Preview.webp" width="450"/> <img src="./Quarry_Golem Spider_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Berserk Miner_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Foreman_Preview.webp" width="450"/> <img src="./Quarry_Junk Pile_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Dwarf_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Bomber_Preview.webp" width="450"/> <img src="./Quarry_Keplan Catapult_Preview.webp" width="450"/> <img src="./Quarry_Keplan Saw_Preview.webp" width="450"/> <img src="./Quarry_Junk Golem_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Miner_Preview.webp" width="450"/> 

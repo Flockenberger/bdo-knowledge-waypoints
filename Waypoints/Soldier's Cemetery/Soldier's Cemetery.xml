@@ -1,0 +1,11 @@
+<!--
+    Waypoints for: Soldier's Cemetery
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Frenzied Skeleton Rifleman" PosX="147845.0" PosY="1704.010009765625" PosZ="-65557.6015625" />
+    <BookMark BookMarkName="Frenzied Skeleton" PosX="137003.0" PosY="2511.639892578125" PosZ="-69645.1015625" />
+    <BookMark BookMarkName="Frenzied Black Sorcerer" PosX="148275.0" PosY="1132.43994140625" PosZ="-59182.30078125" />
+    <BookMark BookMarkName="Frenzied Skeleton Watchdog" PosX="139248.0" PosY="1298.949951171875" PosZ="-61538.69921875" />
+    <BookMark BookMarkName="Frenzied Skeleton Axeman" PosX="143123.0" PosY="699.6199951171875" PosZ="-60101.80078125" />
+</WorldmapBookMark>

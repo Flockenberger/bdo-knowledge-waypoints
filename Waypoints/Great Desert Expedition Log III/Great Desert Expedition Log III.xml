@@ -1,0 +1,10 @@
+<!--
+    Waypoints for: Great Desert Expedition Log III
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Desert Survival Guide" PosX="861765.25" PosY="9609.91015625" PosZ="172406.9375" />
+    <BookMark BookMarkName="Mileposts on the Desert" PosX="1111876.125" PosY="11645.26953125" PosZ="88699.90625" />
+    <BookMark BookMarkName="Broken Slab" PosX="700727.4375" PosY="6045.18994140625" PosZ="277175.875" />
+    <BookMark BookMarkName="Survivor's Journal" PosX="722673.1875" PosY="7969.39013671875" PosZ="-25107.240234375" />
+</WorldmapBookMark>

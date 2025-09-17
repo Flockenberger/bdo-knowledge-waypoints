@@ -1,0 +1,41 @@
+# Vendors of Serendia
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: Vendors of Serendia
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Karin" PosX="8944.5400390625" PosY="1470.010009765625" PosZ="-14185.7001953125" />
+    <BookMark BookMarkName="Techthon" PosX="35794.19921875" PosY="-2666.719970703125" PosZ="-40366.80078125" />
+    <BookMark BookMarkName="Constante" PosX="37684.6015625" PosY="-2834.360107421875" PosZ="-43379.19921875" />
+    <BookMark BookMarkName="Siuta" PosX="38533.3984375" PosY="-995.8499755859375" PosZ="-29237.099609375" />
+    <BookMark BookMarkName="Melissa Brady" PosX="37411.30078125" PosY="-2768.860107421875" PosZ="-42000.69921875" />
+    <BookMark BookMarkName="Luciano Pietro" PosX="36395.19921875" PosY="-3267.090087890625" PosZ="-48036.0" />
+    <BookMark BookMarkName="Vangelas" PosX="45637.80078125" PosY="-121.37200164794922" PosZ="-30064.19921875" />
+    <BookMark BookMarkName="Lara" PosX="36989.1015625" PosY="-2839.889892578125" PosZ="-43024.8984375" />
+    <BookMark BookMarkName="Caresto Fonti" PosX="37596.0" PosY="-531.2589721679688" PosZ="-11372.2998046875" />
+    <BookMark BookMarkName="Ornella" PosX="45997.8984375" PosY="-1111.3900146484375" PosZ="-41771.6015625" />
+    <BookMark BookMarkName="Flaviano" PosX="45670.3984375" PosY="-1094.77001953125" PosZ="-41033.30078125" />
+    <BookMark BookMarkName="Lebyos" PosX="46546.30078125" PosY="-1110.8299560546875" PosZ="-42019.3984375" />
+    <BookMark BookMarkName="Olivia" PosX="47257.6015625" PosY="-59.2859001159668" PosZ="-35880.3984375" />
+    <BookMark BookMarkName="Puia" PosX="47411.69921875" PosY="-1125.1500244140625" PosZ="-42506.6015625" />
+    <BookMark BookMarkName="Joel" PosX="41222.5" PosY="-3483.389892578125" PosZ="-49641.5" />
+    <BookMark BookMarkName="Amerigo" PosX="40853.0" PosY="-3474.320068359375" PosZ="-50927.19921875" />
+    <BookMark BookMarkName="Dora Fonti" PosX="36285.3984375" PosY="-2159.77001953125" PosZ="-37213.3984375" />
+</WorldmapBookMark>
+```
+
+<img src="./Vendors of Serendia_Karin_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Techthon_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Constante_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Siuta_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Melissa Brady_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Luciano Pietro_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Vangelas_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Lara_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Caresto Fonti_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Ornella_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Flaviano_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Lebyos_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Olivia_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Puia_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Joel_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Amerigo_Preview.webp" width="450"/> <img src="./Vendors of Serendia_Dora Fonti_Preview.webp" width="450"/> 

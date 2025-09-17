@@ -1,0 +1,15 @@
+<!--
+    Waypoints for: Goblins
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Giant Goblin Totem" PosX="55962.91015625" PosY="-3067.300048828125" PosZ="78871.4765625" />
+    <BookMark BookMarkName="Giant Goblin Tower" PosX="51315.12109375" PosY="-3073.64990234375" PosZ="48720.2890625" />
+    <BookMark BookMarkName="Goblin Cauldron" PosX="49115.6796875" PosY="-4193.919921875" PosZ="82476.8828125" />
+    <BookMark BookMarkName="Goblin Watchtower" PosX="52840.609375" PosY="-2640.419921875" PosZ="50612.69921875" />
+    <BookMark BookMarkName="Goblin Elite Soldier" PosX="37911.7890625" PosY="-2290.9599609375" PosZ="109474.0234375" />
+    <BookMark BookMarkName="Goblin Shaman" PosX="20828.5" PosY="-1255.219970703125" PosZ="110232.0234375" />
+    <BookMark BookMarkName="Goblin Thrower" PosX="50370.62109375" PosY="-3619.409912109375" PosZ="64012.1015625" />
+    <BookMark BookMarkName="Goblin Fighter" PosX="36710.80078125" PosY="-2260.389892578125" PosZ="108795.0234375" />
+    <BookMark BookMarkName="Goblin" PosX="44055.390625" PosY="-3280.949951171875" PosZ="101426.03125" />
+</WorldmapBookMark>

@@ -1,0 +1,36 @@
+# Upper Class of Valencia City
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: Upper Class of Valencia City
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Indaya" PosX="1010350.0" PosY="10443.7998046875" PosZ="212775.0" />
+    <BookMark BookMarkName="Akhram" PosX="948228.0" PosY="10893.900390625" PosZ="253029.0" />
+    <BookMark BookMarkName="Tasaila Hilla" PosX="1042700.0" PosY="14199.2998046875" PosZ="216131.0" />
+    <BookMark BookMarkName="Givel Taric" PosX="1009870.0" PosY="10441.2001953125" PosZ="212544.0" />
+    <BookMark BookMarkName="Damac" PosX="1010190.0" PosY="10443.900390625" PosZ="212910.0" />
+    <BookMark BookMarkName="Shandi Yut" PosX="1050020.0" PosY="16595.099609375" PosZ="206131.0" />
+    <BookMark BookMarkName="Balleo" PosX="1050570.0" PosY="16595.099609375" PosZ="207839.0" />
+    <BookMark BookMarkName="Saya Nesser" PosX="1052610.0" PosY="16609.80078125" PosZ="205593.0" />
+    <BookMark BookMarkName="Manmehan Nesser" PosX="1036750.0" PosY="12320.0" PosZ="197867.0" />
+    <BookMark BookMarkName="Barhan Nesser" PosX="1008480.0" PosY="9210.240234375" PosZ="220893.0" />
+    <BookMark BookMarkName="Sahazad Nesser" PosX="1051700.0" PosY="17751.099609375" PosZ="199856.0" />
+    <BookMark BookMarkName="Rabam" PosX="1025040.0" PosY="11154.2001953125" PosZ="202386.0" />
+</WorldmapBookMark>
+```
+
+<img src="./Upper Class of Valencia City_Indaya_Preview.webp" width="450"/> <img src="./Upper Class of Valencia City_Akhram_Preview.webp" width="450"/> <img src="./Upper Class of Valencia City_Tasaila Hilla_Preview.webp" width="450"/> <img src="./Upper Class of Valencia City_Givel Taric_Preview.webp" width="450"/> <img src="./Upper Class of Valencia City_Damac_Preview.webp" width="450"/> <img src="./Upper Class of Valencia City_Shandi Yut_Preview.webp" width="450"/> <img src="./Upper Class of Valencia City_Balleo_Preview.webp" width="450"/> <img src="./Upper Class of Valencia City_Saya Nesser_Preview.webp" width="450"/> <img src="./Upper Class of Valencia City_Manmehan Nesser_Preview.webp" width="450"/> <img src="./Upper Class of Valencia City_Barhan Nesser_Preview.webp" width="450"/> <img src="./Upper Class of Valencia City_Sahazad Nesser_Preview.webp" width="450"/> <img src="./Upper Class of Valencia City_Rabam_Preview.webp" width="450"/> 

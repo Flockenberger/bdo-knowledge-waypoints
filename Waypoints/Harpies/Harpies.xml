@@ -1,0 +1,13 @@
+<!--
+    Waypoints for: Harpies
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Harpy Nest" PosX="-123332.0" PosY="11544.2998046875" PosZ="28894.400390625" />
+    <BookMark BookMarkName="Small Harpy" PosX="-109061.0234375" PosY="14045.400390625" PosZ="13248.400390625" />
+    <BookMark BookMarkName="Harpy" PosX="-134798.0" PosY="14204.099609375" PosZ="-46294.19921875" />
+    <BookMark BookMarkName="Black Harpy Elite" PosX="-122467.0" PosY="11570.900390625" PosZ="31016.69921875" />
+    <BookMark BookMarkName="Harpy Abductor" PosX="-133773.4375" PosY="7941.080078125" PosZ="-52889.828125" />
+    <BookMark BookMarkName="Harpy Mage" PosX="-123487.0" PosY="11655.900390625" PosZ="31622.099609375" />
+    <BookMark BookMarkName="Harpy Warrior" PosX="-122800.0078125" PosY="11520.900390625" PosZ="30480.609375" />
+</WorldmapBookMark>
