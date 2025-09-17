@@ -1,4 +1,18 @@
 # People of Outer Edania
+
+This folder contains 1/3 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Aron
+```
+
+```
+Ashen Wing
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

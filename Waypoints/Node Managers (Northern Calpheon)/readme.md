@@ -1,4 +1,8 @@
 # Node Managers (Northern Calpheon)
+
+This folder contains 10/10 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

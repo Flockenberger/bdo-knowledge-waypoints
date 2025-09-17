@@ -1,4 +1,8 @@
 # Olvia Sea
+
+This folder contains 5/5 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

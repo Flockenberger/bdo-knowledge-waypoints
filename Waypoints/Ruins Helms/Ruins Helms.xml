@@ -3,8 +3,13 @@
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Helm Raid Captain" PosX="101720.0" PosY="1027.1400146484375" PosZ="44613.69921875" />
+    <BookMark BookMarkName="Helm Crusher" PosX="98040.703125" PosY="-1413.489990234375" PosZ="51661.6015625" />
+    <BookMark BookMarkName="Helm Destroyer" PosX="97863.3984375" PosY="-2221.0" PosZ="57366.3984375" />
+    <BookMark BookMarkName="Helm Devourer" PosX="101978.0" PosY="1065.7099609375" PosZ="44866.69921875" />
     <BookMark BookMarkName="Helm Tribe Mineral Wagon" PosX="146879.0" PosY="2183.6201171875" PosZ="56343.19921875" />
     <BookMark BookMarkName="Golem Summoning Stone" PosX="161898.0" PosY="233.0800018310547" PosZ="-12872.7001953125" />
+    <BookMark BookMarkName="Helm Golem" PosX="128161.0" PosY="2974.830078125" PosZ="50124.0" />
     <BookMark BookMarkName="Helm Iron Shield" PosX="131206.0" PosY="5800.31982421875" PosZ="51047.0" />
     <BookMark BookMarkName="Stone Golem" PosX="170420.0" PosY="-898.3300170898438" PosZ="-29698.400390625" />
     <BookMark BookMarkName="Gravestone Golem" PosX="174568.0" PosY="-1836.6700439453125" PosZ="-41453.0" />

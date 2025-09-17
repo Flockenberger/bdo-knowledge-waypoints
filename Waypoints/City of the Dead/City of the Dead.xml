@@ -1,0 +1,10 @@
+<!--
+    Waypoints for: City of the Dead
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Tehmelun Messengers" PosX="261038.0" PosY="-1182.9599609375" PosZ="-272315.0" />
+    <BookMark BookMarkName="Tehmelun Military Dogs" PosX="300164.0" PosY="2761.669921875" PosZ="-250596.0" />
+    <BookMark BookMarkName="Tehmelun Elite Soldier" PosX="257819.0" PosY="-40.89250183105469" PosZ="-275476.0" />
+    <BookMark BookMarkName="Tehmelun Seeker" PosX="248911.0" PosY="-974.8359985351562" PosZ="-249672.0" />
+</WorldmapBookMark>

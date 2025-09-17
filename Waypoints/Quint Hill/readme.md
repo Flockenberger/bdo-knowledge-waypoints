@@ -1,4 +1,8 @@
 # Quint Hill
+
+This folder contains 24/24 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -30,6 +34,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Troll Siege Soldier" PosX="-262919.0" PosY="-1547.3900146484375" PosZ="7541.89013671875" />
     <BookMark BookMarkName="Troll Buff Tower" PosX="-307965.9375" PosY="-1861.47998046875" PosZ="23980.380859375" />
     <BookMark BookMarkName="Troll Catapult" PosX="-285840.0" PosY="-2258.39990234375" PosZ="6924.990234375" />
+    <BookMark BookMarkName="Troll Ration Depot" PosX="-277615.0" PosY="-1085.0699462890625" PosZ="23864.900390625" />
     <BookMark BookMarkName="Troll Protection Tower" PosX="-283295.0" PosY="-2005.469970703125" PosZ="8036.06982421875" />
     <BookMark BookMarkName="Troll Hut" PosX="-304397.84375" PosY="-1516.280029296875" PosZ="22421.779296875" />
     <BookMark BookMarkName="Dragon Protection Tower" PosX="-337230.15625" PosY="-183.85000610351562" PosZ="14080.9599609375" />
@@ -44,4 +49,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Quint Hill_Troll Wagon_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Porter_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Shaman_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Thrower_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Warrior_Preview.webp" width="450"/> <img src="./Quint Hill_Troll_Preview.webp" width="450"/> <img src="./Quint Hill_Surrendered Khuruto Soldier_Preview.webp" width="450"/> <img src="./Quint Hill_Surrendered Khuruto Elite Soldier_Preview.webp" width="450"/> <img src="./Quint Hill_Young Troll Ox_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Siege Soldier_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Buff Tower_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Catapult_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Protection Tower_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Hut_Preview.webp" width="450"/> <img src="./Quint Hill_Dragon Protection Tower_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Barricade_Preview.webp" width="450"/> <img src="./Quint Hill_Ancient Troll Elite Warrior_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Cow_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Elite Warrior_Preview.webp" width="450"/> <img src="./Quint Hill_Ancient Troll Shaman_Preview.webp" width="450"/> <img src="./Quint Hill_Ancient Troll Thrower_Preview.webp" width="450"/> <img src="./Quint Hill_Ancient Troll Warrior_Preview.webp" width="450"/> <img src="./Quint Hill_Ancient Troll_Preview.webp" width="450"/> 
+<img src="./Quint Hill_Troll Wagon_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Porter_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Shaman_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Thrower_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Warrior_Preview.webp" width="450"/> <img src="./Quint Hill_Troll_Preview.webp" width="450"/> <img src="./Quint Hill_Surrendered Khuruto Soldier_Preview.webp" width="450"/> <img src="./Quint Hill_Surrendered Khuruto Elite Soldier_Preview.webp" width="450"/> <img src="./Quint Hill_Young Troll Ox_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Siege Soldier_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Buff Tower_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Catapult_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Ration Depot_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Protection Tower_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Hut_Preview.webp" width="450"/> <img src="./Quint Hill_Dragon Protection Tower_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Barricade_Preview.webp" width="450"/> <img src="./Quint Hill_Ancient Troll Elite Warrior_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Cow_Preview.webp" width="450"/> <img src="./Quint Hill_Troll Elite Warrior_Preview.webp" width="450"/> <img src="./Quint Hill_Ancient Troll Shaman_Preview.webp" width="450"/> <img src="./Quint Hill_Ancient Troll Thrower_Preview.webp" width="450"/> <img src="./Quint Hill_Ancient Troll Warrior_Preview.webp" width="450"/> <img src="./Quint Hill_Ancient Troll_Preview.webp" width="450"/> 

@@ -1,4 +1,8 @@
 # Lemoria Sentinel Soldiers
+
+This folder contains 15/15 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

@@ -1,4 +1,8 @@
 # People around Glish
+
+This folder contains 1/1 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

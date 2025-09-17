@@ -1,4 +1,8 @@
 # Node Managers (Southwestern Calpheon)
+
+This folder contains 24/24 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

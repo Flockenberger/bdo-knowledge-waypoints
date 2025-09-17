@@ -1,4 +1,78 @@
 # The Great Expedition I
+
+This folder contains 1/18 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+The Stars, Fish, and Black Tide
+```
+
+```
+An Old Lion Walking on Eggshells
+```
+
+```
+Young Fish Caught by an Eagle's Talons
+```
+
+```
+A Letter Written Under the Soft Moonlight
+```
+
+```
+The Young Lion's Secret Pact
+```
+
+```
+Sea Coin, the Secret Treasure of Barterers
+```
+
+```
+Win Over Your Crew's Hearts: Prepare Rations
+```
+
+```
+Win Over Your Crew's Hearts: Ships and Cabins
+```
+
+```
+Win Over Your Crew's Hearts: Get a Crew
+```
+
+```
+The Truth About Oquilla's Eye
+```
+
+```
+Old Moon Guild, Serendia, and the Black Turtle Tribe
+```
+
+```
+Regretful Serendian Soldiers
+```
+
+```
+Whereabouts of the Missing Scholar
+```
+
+```
+The Three, no Four, Regions of Oquilla's Eye
+```
+
+```
+The Young Fish of the Gutters
+```
+
+```
+Happy Chappy Zaaira
+```
+
+```
+A Stage Bursting with Opportunity
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

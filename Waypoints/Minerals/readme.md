@@ -1,4 +1,34 @@
 # Minerals
+
+This folder contains 36/42 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Quartz
+```
+
+```
+Translucent Ice
+```
+
+```
+Ice
+```
+
+```
+Nickel Ore
+```
+
+```
+Rhyolite
+```
+
+```
+Jadeite
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,6 +48,12 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Noc Ore" PosX="-140302.0" PosY="15832.7001953125" PosZ="-498909.0" />
+    <BookMark BookMarkName="Hard Sandstone" PosX="1280840.0" PosY="-4336.31005859375" PosZ="168486.0" />
+    <BookMark BookMarkName="Soft Sandstone" PosX="1287050.0" PosY="2588.06005859375" PosZ="139073.0" />
+    <BookMark BookMarkName="Mythril Ore" PosX="361536.0" PosY="2674.110107421875" PosZ="97681.3984375" />
+    <BookMark BookMarkName="Titanium Ore" PosX="409110.0" PosY="-1903.8299560546875" PosZ="-19875.099609375" />
+    <BookMark BookMarkName="Vanadium Ore" PosX="1289020.0" PosY="-2190.93994140625" PosZ="243688.0" />
     <BookMark BookMarkName="Bloodstone" PosX="-129683.0" PosY="6136.27978515625" PosZ="-82614.203125" />
     <BookMark BookMarkName="Andesite" PosX="-142684.0" PosY="2923.43994140625" PosZ="-273046.0" />
     <BookMark BookMarkName="Mudstone" PosX="143736.0" PosY="2156.5" PosZ="63252.0" />
@@ -51,4 +87,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Minerals_Bloodstone_Preview.webp" width="450"/> <img src="./Minerals_Andesite_Preview.webp" width="450"/> <img src="./Minerals_Mudstone_Preview.webp" width="450"/> <img src="./Minerals_Sandstone_Preview.webp" width="450"/> <img src="./Minerals_Coal_Preview.webp" width="450"/> <img src="./Minerals_Volcanic Rock_Preview.webp" width="450"/> <img src="./Minerals_Iron_Preview.webp" width="450"/> <img src="./Minerals_Gold_Preview.webp" width="450"/> <img src="./Minerals_Beryl_Preview.webp" width="450"/> <img src="./Minerals_Diamond_Preview.webp" width="450"/> <img src="./Minerals_Copper_Preview.webp" width="450"/> <img src="./Minerals_Bryophyte_Preview.webp" width="450"/> <img src="./Minerals_Diorite_Preview.webp" width="450"/> <img src="./Minerals_Granite_Preview.webp" width="450"/> <img src="./Minerals_Feldspar_Preview.webp" width="450"/> <img src="./Minerals_Rainbow Stone_Preview.webp" width="450"/> <img src="./Minerals_Black Quartz_Preview.webp" width="450"/> <img src="./Minerals_Green Quartz_Preview.webp" width="450"/> <img src="./Minerals_Red Quartz_Preview.webp" width="450"/> <img src="./Minerals_Muddy Quartz_Preview.webp" width="450"/> <img src="./Minerals_Clear Quartz_Preview.webp" width="450"/> <img src="./Minerals_Opal_Preview.webp" width="450"/> <img src="./Minerals_Zinc_Preview.webp" width="450"/> <img src="./Minerals_Topaz_Preview.webp" width="450"/> <img src="./Minerals_Silver_Preview.webp" width="450"/> <img src="./Minerals_Sapphire_Preview.webp" width="450"/> <img src="./Minerals_Ruby_Preview.webp" width="450"/> <img src="./Minerals_Tin_Preview.webp" width="450"/> <img src="./Minerals_Platinum_Preview.webp" width="450"/> <img src="./Minerals_Lead_Preview.webp" width="450"/> 
+<img src="./Minerals_Noc Ore_Preview.webp" width="450"/> <img src="./Minerals_Hard Sandstone_Preview.webp" width="450"/> <img src="./Minerals_Soft Sandstone_Preview.webp" width="450"/> <img src="./Minerals_Mythril Ore_Preview.webp" width="450"/> <img src="./Minerals_Titanium Ore_Preview.webp" width="450"/> <img src="./Minerals_Vanadium Ore_Preview.webp" width="450"/> <img src="./Minerals_Bloodstone_Preview.webp" width="450"/> <img src="./Minerals_Andesite_Preview.webp" width="450"/> <img src="./Minerals_Mudstone_Preview.webp" width="450"/> <img src="./Minerals_Sandstone_Preview.webp" width="450"/> <img src="./Minerals_Coal_Preview.webp" width="450"/> <img src="./Minerals_Volcanic Rock_Preview.webp" width="450"/> <img src="./Minerals_Iron_Preview.webp" width="450"/> <img src="./Minerals_Gold_Preview.webp" width="450"/> <img src="./Minerals_Beryl_Preview.webp" width="450"/> <img src="./Minerals_Diamond_Preview.webp" width="450"/> <img src="./Minerals_Copper_Preview.webp" width="450"/> <img src="./Minerals_Bryophyte_Preview.webp" width="450"/> <img src="./Minerals_Diorite_Preview.webp" width="450"/> <img src="./Minerals_Granite_Preview.webp" width="450"/> <img src="./Minerals_Feldspar_Preview.webp" width="450"/> <img src="./Minerals_Rainbow Stone_Preview.webp" width="450"/> <img src="./Minerals_Black Quartz_Preview.webp" width="450"/> <img src="./Minerals_Green Quartz_Preview.webp" width="450"/> <img src="./Minerals_Red Quartz_Preview.webp" width="450"/> <img src="./Minerals_Muddy Quartz_Preview.webp" width="450"/> <img src="./Minerals_Clear Quartz_Preview.webp" width="450"/> <img src="./Minerals_Opal_Preview.webp" width="450"/> <img src="./Minerals_Zinc_Preview.webp" width="450"/> <img src="./Minerals_Topaz_Preview.webp" width="450"/> <img src="./Minerals_Silver_Preview.webp" width="450"/> <img src="./Minerals_Sapphire_Preview.webp" width="450"/> <img src="./Minerals_Ruby_Preview.webp" width="450"/> <img src="./Minerals_Tin_Preview.webp" width="450"/> <img src="./Minerals_Platinum_Preview.webp" width="450"/> <img src="./Minerals_Lead_Preview.webp" width="450"/> 

@@ -1,4 +1,30 @@
 # Mushrooms
+
+This folder contains 14/19 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Youngji Mushroom
+```
+
+```
+Mesima
+```
+
+```
+Red-spotted Amanita
+```
+
+```
+Chanterelle
+```
+
+```
+Dictyophora
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

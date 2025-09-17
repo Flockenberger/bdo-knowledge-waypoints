@@ -1,0 +1,49 @@
+# History I
+
+This folder contains 15/16 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+The Great Library of Calpheon
+```
+
+
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: History I
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Watchtower Bridge" PosX="-43930.69921875" PosY="-1393.68994140625" PosZ="-130665.0" />
+    <BookMark BookMarkName="Statue at the Ossuary" PosX="9413.849609375" PosY="-5380.89013671875" PosZ="61690.0" />
+    <BookMark BookMarkName="Fall of Cron Castle" PosX="10740.2001953125" PosY="-7193.81005859375" PosZ="80316.8984375" />
+    <BookMark BookMarkName="Ramones of Balenos" PosX="8916.830078125" PosY="-5380.10986328125" PosZ="63917.1015625" />
+    <BookMark BookMarkName="Black Revolution" PosX="41653.5" PosY="-396.12701416015625" PosZ="-35216.69921875" />
+    <BookMark BookMarkName="Black Death" PosX="41653.5" PosY="-396.12701416015625" PosZ="-35216.69921875" />
+    <BookMark BookMarkName="History of Vehicles" PosX="-73435.8984375" PosY="-3318.60009765625" PosZ="-56322.5" />
+    <BookMark BookMarkName="Naga Home" PosX="46353.80078125" PosY="-2956.510009765625" PosZ="-70889.203125" />
+    <BookMark BookMarkName="Orphans of War" PosX="36989.1015625" PosY="-2839.889892578125" PosZ="-43024.8984375" />
+    <BookMark BookMarkName="The Doubtful Death of a Young King" PosX="37596.0" PosY="-531.2589721679688" PosZ="-11372.2998046875" />
+    <BookMark BookMarkName="The Great Move of the Savages" PosX="38276.6015625" PosY="-1015.7999877929688" PosZ="-136453.0" />
+    <BookMark BookMarkName="Disaster of Forgiveness" PosX="-132235.0" PosY="24765.400390625" PosZ="-329096.0" />
+    <BookMark BookMarkName="Legacy of a 30 Year Invasion" PosX="-132235.0" PosY="24765.400390625" PosZ="-329096.0" />
+    <BookMark BookMarkName="Resistance or Revolution" PosX="67423.0" PosY="-2030.2099609375" PosZ="-84550.5" />
+    <BookMark BookMarkName="Two Faces of Calpheon" PosX="42179.69921875" PosY="-830.8900146484375" PosZ="-34173.8984375" />
+</WorldmapBookMark>
+```
+
+<img src="./History I_Watchtower Bridge_Preview.webp" width="450"/> <img src="./History I_Statue at the Ossuary_Preview.webp" width="450"/> <img src="./History I_Fall of Cron Castle_Preview.webp" width="450"/> <img src="./History I_Ramones of Balenos_Preview.webp" width="450"/> <img src="./History I_Black Revolution_Preview.webp" width="450"/> <img src="./History I_Black Death_Preview.webp" width="450"/> <img src="./History I_History of Vehicles_Preview.webp" width="450"/> <img src="./History I_Naga Home_Preview.webp" width="450"/> <img src="./History I_Orphans of War_Preview.webp" width="450"/> <img src="./History I_The Doubtful Death of a Young King_Preview.webp" width="450"/> <img src="./History I_The Great Move of the Savages_Preview.webp" width="450"/> <img src="./History I_Disaster of Forgiveness_Preview.webp" width="450"/> <img src="./History I_Legacy of a 30 Year Invasion_Preview.webp" width="450"/> <img src="./History I_Resistance or Revolution?_Preview.webp" width="450"/> <img src="./History I_Two Faces of Calpheon_Preview.webp" width="450"/> 

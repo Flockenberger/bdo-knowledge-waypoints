@@ -1,4 +1,66 @@
 # Southern Ulukita
+
+This folder contains 1/15 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Aakshrad Mountains
+```
+
+```
+Stofbir
+```
+
+```
+Shakhtar Wilds
+```
+
+```
+Yzrahid Highlands
+```
+
+```
+Gladios Inn
+```
+
+```
+Black Stone Mine
+```
+
+```
+Sunken Citadel
+```
+
+```
+Karasi Canyon
+```
+
+```
+Lake Sefirah - Downstream
+```
+
+```
+Barhan Camp
+```
+
+```
+Muzgar
+```
+
+```
+Turba Farm
+```
+
+```
+Larc Guard Post
+```
+
+```
+Darkseekers' Retreat
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

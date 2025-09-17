@@ -1,4 +1,8 @@
 # Foreigners of Hakinza Sanctuary
+
+This folder contains 8/8 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

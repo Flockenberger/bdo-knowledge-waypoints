@@ -3,6 +3,12 @@
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Noc Ore" PosX="-140302.0" PosY="15832.7001953125" PosZ="-498909.0" />
+    <BookMark BookMarkName="Hard Sandstone" PosX="1280840.0" PosY="-4336.31005859375" PosZ="168486.0" />
+    <BookMark BookMarkName="Soft Sandstone" PosX="1287050.0" PosY="2588.06005859375" PosZ="139073.0" />
+    <BookMark BookMarkName="Mythril Ore" PosX="361536.0" PosY="2674.110107421875" PosZ="97681.3984375" />
+    <BookMark BookMarkName="Titanium Ore" PosX="409110.0" PosY="-1903.8299560546875" PosZ="-19875.099609375" />
+    <BookMark BookMarkName="Vanadium Ore" PosX="1289020.0" PosY="-2190.93994140625" PosZ="243688.0" />
     <BookMark BookMarkName="Bloodstone" PosX="-129683.0" PosY="6136.27978515625" PosZ="-82614.203125" />
     <BookMark BookMarkName="Andesite" PosX="-142684.0" PosY="2923.43994140625" PosZ="-273046.0" />
     <BookMark BookMarkName="Mudstone" PosX="143736.0" PosY="2156.5" PosZ="63252.0" />

@@ -1,4 +1,8 @@
 # Steppe (Kamasylvia)
+
+This folder contains 12/12 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,9 +22,19 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Immature Black Leopard" PosX="-365012.0" PosY="1974.25" PosZ="-419883.0" />
+    <BookMark BookMarkName="Immature Griffon" PosX="-363529.0" PosY="1519.0999755859375" PosZ="-430491.0" />
+    <BookMark BookMarkName="Immature King Griffon" PosX="-363077.0" PosY="1601.3499755859375" PosZ="-428971.0" />
+    <BookMark BookMarkName="Phnyl" PosX="-385486.0" PosY="1541.43994140625" PosZ="-436878.0" />
+    <BookMark BookMarkName="King Griffon" PosX="-393700.0" PosY="-1114.3699951171875" PosZ="-426838.0" />
+    <BookMark BookMarkName="Baby Belladonna Elephant" PosX="-381971.0" PosY="-125.73500061035156" PosZ="-421761.0" />
+    <BookMark BookMarkName="Ferrina" PosX="-362448.0" PosY="2028.9200439453125" PosZ="-420147.0" />
     <BookMark BookMarkName="Ferrica" PosX="-365192.84375" PosY="1591.8399658203125" PosZ="-425675.09375" />
+    <BookMark BookMarkName="Griffon" PosX="-393511.0" PosY="-1029.1400146484375" PosZ="-425961.0" />
     <BookMark BookMarkName="Feather Wolf" PosX="-408141.125" PosY="-2262.5" PosZ="-409025.0" />
+    <BookMark BookMarkName="Belladonna Elephant" PosX="-382705.0" PosY="-213.3040008544922" PosZ="-421096.0" />
+    <BookMark BookMarkName="Griffon Egg" PosX="-381571.0" PosY="1628.2900390625" PosZ="-441093.0" />
 </WorldmapBookMark>
 ```
 
-<img src="./Steppe (Kamasylvia)_Ferrica_Preview.webp" width="450"/> <img src="./Steppe (Kamasylvia)_Feather Wolf_Preview.webp" width="450"/> 
+<img src="./Steppe (Kamasylvia)_Immature Black Leopard_Preview.webp" width="450"/> <img src="./Steppe (Kamasylvia)_Immature Griffon_Preview.webp" width="450"/> <img src="./Steppe (Kamasylvia)_Immature King Griffon_Preview.webp" width="450"/> <img src="./Steppe (Kamasylvia)_Phnyl_Preview.webp" width="450"/> <img src="./Steppe (Kamasylvia)_King Griffon_Preview.webp" width="450"/> <img src="./Steppe (Kamasylvia)_Baby Belladonna Elephant_Preview.webp" width="450"/> <img src="./Steppe (Kamasylvia)_Ferrina_Preview.webp" width="450"/> <img src="./Steppe (Kamasylvia)_Ferrica_Preview.webp" width="450"/> <img src="./Steppe (Kamasylvia)_Griffon_Preview.webp" width="450"/> <img src="./Steppe (Kamasylvia)_Feather Wolf_Preview.webp" width="450"/> <img src="./Steppe (Kamasylvia)_Belladonna Elephant_Preview.webp" width="450"/> <img src="./Steppe (Kamasylvia)_Griffon Egg_Preview.webp" width="450"/> 

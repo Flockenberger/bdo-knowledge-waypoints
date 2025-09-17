@@ -1,4 +1,8 @@
 # People of Asparkan Fort
+
+This folder contains 22/22 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

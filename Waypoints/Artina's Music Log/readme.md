@@ -1,4 +1,26 @@
 # Artina's Music Log
+
+This folder contains 4/8 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+That Day on Windy Peak
+```
+
+```
+Party in Florin
+```
+
+```
+Honor of Calpheon
+```
+
+```
+Wandering Musician, Artina
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

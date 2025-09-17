@@ -1,4 +1,22 @@
 # Yzrahid Highlands
+
+This folder contains 2/5 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Navis
+```
+
+```
+Kilar
+```
+
+```
+Lehar
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

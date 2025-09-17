@@ -1,4 +1,8 @@
 # Node Managers (Valencia Canyon)
+
+This folder contains 9/9 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

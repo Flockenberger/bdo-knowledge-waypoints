@@ -3,5 +3,8 @@
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Petrified Adventurer" PosX="358243.0" PosY="-2820.050048828125" PosZ="37714.3984375" />
+    <BookMark BookMarkName="Petrified Soldier" PosX="357759.0" PosY="-1765.2099609375" PosZ="26826.19921875" />
     <BookMark BookMarkName="Basilisk Ambusher" PosX="376554.875" PosY="-6747.85009765625" PosZ="29656.900390625" />
+    <BookMark BookMarkName="Basilisk Statue" PosX="364904.0" PosY="-4250.7998046875" PosZ="14376.2998046875" />
 </WorldmapBookMark>

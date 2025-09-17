@@ -1,4 +1,150 @@
 # Outer Edania
+
+This folder contains 1/36 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Sanctuary Coastal Outpost
+```
+
+```
+Great Dark Spot
+```
+
+```
+Stillcoral Grove
+```
+
+```
+Whispering Hills
+```
+
+```
+Tideworn Gorge
+```
+
+```
+Nymphamaré Castle
+```
+
+```
+Great Red Spot
+```
+
+```
+Doomstill Pond
+```
+
+```
+Scorched Land of Prophecy
+```
+
+```
+Ancient Ruins
+```
+
+```
+Crossroads of Defiance
+```
+
+```
+Garden of Immortality
+```
+
+```
+Zephyros Castle
+```
+
+```
+Saterna Mountains
+```
+
+```
+Euphetar Mountains
+```
+
+```
+Urnas Mountains
+```
+
+```
+Aal's Revelation
+```
+
+```
+Platerra Mountains
+```
+
+```
+Wailing Altar
+```
+
+```
+Veiled Archives
+```
+
+```
+Ebony Opening
+```
+
+```
+Tenebraum Castle
+```
+
+```
+Mount Rumanaré
+```
+
+```
+Cliff of Despair
+```
+
+```
+Azure Battlefield
+```
+
+```
+The Canted Ring
+```
+
+```
+Aetherion Castle
+```
+
+```
+Litovan Mountains
+```
+
+```
+Sanctified Mercy
+```
+
+```
+Great White Spot
+```
+
+```
+Faith's Resting Place
+```
+
+```
+Orbita Castle
+```
+
+```
+Escar Mountains
+```
+
+```
+Shore of Ruins
+```
+
+```
+Neftak Outpost
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

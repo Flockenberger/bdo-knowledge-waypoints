@@ -1,4 +1,8 @@
 # People of Yuunru
+
+This folder contains 6/6 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

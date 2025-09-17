@@ -1,4 +1,8 @@
 # Node Managers (Mediah)
+
+This folder contains 23/23 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

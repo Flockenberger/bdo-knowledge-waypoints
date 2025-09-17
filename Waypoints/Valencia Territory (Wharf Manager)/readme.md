@@ -1,4 +1,8 @@
 # Valencia Territory (Wharf Manager)
+
+This folder contains 3/3 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

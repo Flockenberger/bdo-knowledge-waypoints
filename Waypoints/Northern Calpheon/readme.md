@@ -1,4 +1,8 @@
 # Northern Calpheon
+
+This folder contains 30/30 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -23,6 +27,10 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Calpheon Slum" PosX="-265387.0" PosY="-1101.489990234375" PosZ="-47701.8984375" />
     <BookMark BookMarkName="Florin" PosX="-167093.0" PosY="5851.10009765625" PosZ="53002.0" />
     <BookMark BookMarkName="Calpheon" PosX="-274821.0" PosY="-695.0089721679688" PosZ="-72125.0" />
+    <BookMark BookMarkName="Lake Kaia" PosX="-245322.0" PosY="-799.14501953125" PosZ="-58024.6015625" />
+    <BookMark BookMarkName="Marni Cave Path" PosX="-226306.0" PosY="-3707.199951171875" PosZ="-59884.30078125" />
+    <BookMark BookMarkName="Kalis Plaza" PosX="-233661.0" PosY="-3440.969970703125" PosZ="-57590.8984375" />
+    <BookMark BookMarkName="Calpheon Plain" PosX="-248934.0" PosY="-1828.949951171875" PosZ="-76192.203125" />
     <BookMark BookMarkName="Bernianto Farm" PosX="-229941.0" PosY="-2329.070068359375" PosZ="11766.0" />
     <BookMark BookMarkName="Elder's Bridge Post" PosX="-261807.0" PosY="3205.719970703125" PosZ="59893.5" />
     <BookMark BookMarkName="Cohen Farm" PosX="-315126.0" PosY="-3895.550048828125" PosZ="-42696.30078125" />
@@ -38,6 +46,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Delphe Knights Castle" PosX="-135039.0" PosY="9564.8603515625" PosZ="-49909.80078125" />
     <BookMark BookMarkName="Old Dandelion" PosX="-169721.0" PosY="180.4290008544922" PosZ="-9796.1103515625" />
     <BookMark BookMarkName="Bree Tree Ruins" PosX="-221070.0" PosY="1327.4599609375" PosZ="52635.5" />
+    <BookMark BookMarkName="Waragon Cave" PosX="-265197.0" PosY="-1080.6600341796875" PosZ="-47651.6015625" />
     <BookMark BookMarkName="Khuruto Cave" PosX="-170236.0" PosY="-441.6579895019531" PosZ="2542.06005859375" />
     <BookMark BookMarkName="Delphe Outpost" PosX="-124214.0" PosY="6704.5498046875" PosZ="5056.27001953125" />
     <BookMark BookMarkName="Anti-Troll Fortification" PosX="-260224.0" PosY="-1352.8399658203125" PosZ="8260.2197265625" />
@@ -46,4 +55,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Northern Calpheon_Calpheon Castle Site_Preview.webp" width="450"/> <img src="./Northern Calpheon_Calpheon Market_Preview.webp" width="450"/> <img src="./Northern Calpheon_Calpheon Slum_Preview.webp" width="450"/> <img src="./Northern Calpheon_Florin_Preview.webp" width="450"/> <img src="./Northern Calpheon_Calpheon_Preview.webp" width="450"/> <img src="./Northern Calpheon_Bernianto Farm_Preview.webp" width="450"/> <img src="./Northern Calpheon_Elder's Bridge Post_Preview.webp" width="450"/> <img src="./Northern Calpheon_Cohen Farm_Preview.webp" width="450"/> <img src="./Northern Calpheon_Epheria Valley_Preview.webp" width="450"/> <img src="./Northern Calpheon_Epheria Sentry Post_Preview.webp" width="450"/> <img src="./Northern Calpheon_Dias Farm_Preview.webp" width="450"/> <img src="./Northern Calpheon_Isolated Sentry Post_Preview.webp" width="450"/> <img src="./Northern Calpheon_Caphras Cave_Preview.webp" width="450"/> <img src="./Northern Calpheon_Contaminated Farm_Preview.webp" width="450"/> <img src="./Northern Calpheon_Northern Wheat Plantation_Preview.webp" width="450"/> <img src="./Northern Calpheon_Karanda Ridge_Preview.webp" width="450"/> <img src="./Northern Calpheon_Port Epheria_Preview.webp" width="450"/> <img src="./Northern Calpheon_Delphe Knights Castle_Preview.webp" width="450"/> <img src="./Northern Calpheon_Old Dandelion_Preview.webp" width="450"/> <img src="./Northern Calpheon_Bree Tree Ruins_Preview.webp" width="450"/> <img src="./Northern Calpheon_Khuruto Cave_Preview.webp" width="450"/> <img src="./Northern Calpheon_Delphe Outpost_Preview.webp" width="450"/> <img src="./Northern Calpheon_Anti-Troll Fortification_Preview.webp" width="450"/> <img src="./Northern Calpheon_Quint Hill_Preview.webp" width="450"/> <img src="./Northern Calpheon_Abandoned Land_Preview.webp" width="450"/> 
+<img src="./Northern Calpheon_Calpheon Castle Site_Preview.webp" width="450"/> <img src="./Northern Calpheon_Calpheon Market_Preview.webp" width="450"/> <img src="./Northern Calpheon_Calpheon Slum_Preview.webp" width="450"/> <img src="./Northern Calpheon_Florin_Preview.webp" width="450"/> <img src="./Northern Calpheon_Calpheon_Preview.webp" width="450"/> <img src="./Northern Calpheon_Lake Kaia_Preview.webp" width="450"/> <img src="./Northern Calpheon_Marni Cave Path_Preview.webp" width="450"/> <img src="./Northern Calpheon_Kalis Plaza_Preview.webp" width="450"/> <img src="./Northern Calpheon_Calpheon Plain_Preview.webp" width="450"/> <img src="./Northern Calpheon_Bernianto Farm_Preview.webp" width="450"/> <img src="./Northern Calpheon_Elder's Bridge Post_Preview.webp" width="450"/> <img src="./Northern Calpheon_Cohen Farm_Preview.webp" width="450"/> <img src="./Northern Calpheon_Epheria Valley_Preview.webp" width="450"/> <img src="./Northern Calpheon_Epheria Sentry Post_Preview.webp" width="450"/> <img src="./Northern Calpheon_Dias Farm_Preview.webp" width="450"/> <img src="./Northern Calpheon_Isolated Sentry Post_Preview.webp" width="450"/> <img src="./Northern Calpheon_Caphras Cave_Preview.webp" width="450"/> <img src="./Northern Calpheon_Contaminated Farm_Preview.webp" width="450"/> <img src="./Northern Calpheon_Northern Wheat Plantation_Preview.webp" width="450"/> <img src="./Northern Calpheon_Karanda Ridge_Preview.webp" width="450"/> <img src="./Northern Calpheon_Port Epheria_Preview.webp" width="450"/> <img src="./Northern Calpheon_Delphe Knights Castle_Preview.webp" width="450"/> <img src="./Northern Calpheon_Old Dandelion_Preview.webp" width="450"/> <img src="./Northern Calpheon_Bree Tree Ruins_Preview.webp" width="450"/> <img src="./Northern Calpheon_Waragon Cave_Preview.webp" width="450"/> <img src="./Northern Calpheon_Khuruto Cave_Preview.webp" width="450"/> <img src="./Northern Calpheon_Delphe Outpost_Preview.webp" width="450"/> <img src="./Northern Calpheon_Anti-Troll Fortification_Preview.webp" width="450"/> <img src="./Northern Calpheon_Quint Hill_Preview.webp" width="450"/> <img src="./Northern Calpheon_Abandoned Land_Preview.webp" width="450"/> 

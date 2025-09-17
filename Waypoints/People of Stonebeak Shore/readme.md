@@ -1,4 +1,8 @@
 # People of Stonebeak Shore
+
+This folder contains 21/21 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

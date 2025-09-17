@@ -1,4 +1,8 @@
 # Residents of Serendia
+
+This folder contains 16/16 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -23,6 +27,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Diochre" PosX="35063.5" PosY="-2594.159912109375" PosZ="-61043.5" />
     <BookMark BookMarkName="Jugruta" PosX="-44752.6015625" PosY="6737.56005859375" PosZ="-8778.400390625" />
     <BookMark BookMarkName="Torres" PosX="3849.14990234375" PosY="1200.489990234375" PosZ="-16158.900390625" />
+    <BookMark BookMarkName="Anon" PosX="-41629.69921875" PosY="-1680.969970703125" PosZ="-123166.0" />
     <BookMark BookMarkName="Hannes" PosX="75086.703125" PosY="-1332.699951171875" PosZ="-72207.796875" />
     <BookMark BookMarkName="Zara Lynch" PosX="-17993.400390625" PosY="-3009.449951171875" PosZ="-38133.3984375" />
     <BookMark BookMarkName="Mercianne Moretti" PosX="73723.796875" PosY="-1352.5999755859375" PosZ="-70902.796875" />
@@ -36,4 +41,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Residents of Serendia_Alzath_Preview.webp" width="450"/> <img src="./Residents of Serendia_Acher_Preview.webp" width="450"/> <img src="./Residents of Serendia_Diochre_Preview.webp" width="450"/> <img src="./Residents of Serendia_Jugruta_Preview.webp" width="450"/> <img src="./Residents of Serendia_Torres_Preview.webp" width="450"/> <img src="./Residents of Serendia_Hannes_Preview.webp" width="450"/> <img src="./Residents of Serendia_Zara Lynch_Preview.webp" width="450"/> <img src="./Residents of Serendia_Mercianne Moretti_Preview.webp" width="450"/> <img src="./Residents of Serendia_Ficy_Preview.webp" width="450"/> <img src="./Residents of Serendia_Fatoos_Preview.webp" width="450"/> <img src="./Residents of Serendia_Coco Elda_Preview.webp" width="450"/> <img src="./Residents of Serendia_Amadeo Alejandro_Preview.webp" width="450"/> <img src="./Residents of Serendia_Murana Lynch_Preview.webp" width="450"/> <img src="./Residents of Serendia_Mael Costa_Preview.webp" width="450"/> <img src="./Residents of Serendia_Hunt_Preview.webp" width="450"/> 
+<img src="./Residents of Serendia_Alzath_Preview.webp" width="450"/> <img src="./Residents of Serendia_Acher_Preview.webp" width="450"/> <img src="./Residents of Serendia_Diochre_Preview.webp" width="450"/> <img src="./Residents of Serendia_Jugruta_Preview.webp" width="450"/> <img src="./Residents of Serendia_Torres_Preview.webp" width="450"/> <img src="./Residents of Serendia_Anon_Preview.webp" width="450"/> <img src="./Residents of Serendia_Hannes_Preview.webp" width="450"/> <img src="./Residents of Serendia_Zara Lynch_Preview.webp" width="450"/> <img src="./Residents of Serendia_Mercianne Moretti_Preview.webp" width="450"/> <img src="./Residents of Serendia_Ficy_Preview.webp" width="450"/> <img src="./Residents of Serendia_Fatoos_Preview.webp" width="450"/> <img src="./Residents of Serendia_Coco Elda_Preview.webp" width="450"/> <img src="./Residents of Serendia_Amadeo Alejandro_Preview.webp" width="450"/> <img src="./Residents of Serendia_Murana Lynch_Preview.webp" width="450"/> <img src="./Residents of Serendia_Mael Costa_Preview.webp" width="450"/> <img src="./Residents of Serendia_Hunt_Preview.webp" width="450"/> 

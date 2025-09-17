@@ -1,4 +1,8 @@
 # Old Moon Guild (Guild Wharf Managers)
+
+This folder contains 11/11 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

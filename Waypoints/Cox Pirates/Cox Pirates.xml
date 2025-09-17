@@ -3,8 +3,23 @@
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Red Foot Assassin" PosX="-279777.0" PosY="712.25" PosZ="402122.0" />
+    <BookMark BookMarkName="Deck Elite Combatant" PosX="-275491.0" PosY="-2803.110107421875" PosZ="409306.0" />
+    <BookMark BookMarkName="Deck Combatant" PosX="-279055.0" PosY="458.2139892578125" PosZ="401957.0" />
+    <BookMark BookMarkName="Elite Sentinel" PosX="-281280.0" PosY="873.7360229492188" PosZ="401667.0" />
+    <BookMark BookMarkName="Drunk Treasure Hunter" PosX="-317535.0" PosY="-7597.18017578125" PosZ="311397.0" />
+    <BookMark BookMarkName="Iron Combatant" PosX="-337777.0" PosY="892.5549926757812" PosZ="405252.0" />
+    <BookMark BookMarkName="Cox Prison" PosX="-329254.0" PosY="-5000.31005859375" PosZ="310610.0" />
+    <BookMark BookMarkName="Crazy Jack" PosX="-271251.0" PosY="1464.469970703125" PosZ="401537.0" />
+    <BookMark BookMarkName="Cox Elite Gladiator" PosX="-279884.0" PosY="443.62799072265625" PosZ="403804.0" />
+    <BookMark BookMarkName="Captain Khuru" PosX="-329694.0" PosY="-5380.240234375" PosZ="293781.0" />
+    <BookMark BookMarkName="One-Eyed Outlaw" PosX="-328550.0" PosY="-5495.080078125" PosZ="295051.0" />
+    <BookMark BookMarkName="Megimegi" PosX="-329456.0" PosY="-5419.5" PosZ="293403.0" />
     <BookMark BookMarkName="Cox Elite Warrior" PosX="-335087.0" PosY="-86.13999938964844" PosZ="14982.0" />
     <BookMark BookMarkName="Cox Female Warrior" PosX="-335087.0" PosY="-86.13999938964844" PosZ="14982.0" />
     <BookMark BookMarkName="Cox Raider" PosX="-385213.0" PosY="4719.509765625" PosZ="-110847.0" />
     <BookMark BookMarkName="Cox Warrior" PosX="-110706.0" PosY="-9819.759765625" PosZ="-110706.0" />
+    <BookMark BookMarkName="Pirate Watchtower" PosX="-312709.0" PosY="10327.400390625" PosZ="404703.0" />
+    <BookMark BookMarkName="Pirate Treasure Chest" PosX="-341001.0" PosY="-7482.330078125" PosZ="375315.0" />
+    <BookMark BookMarkName="Pirate Flag" PosX="-331843.0" PosY="-5102.56982421875" PosZ="376720.0" />
 </WorldmapBookMark>

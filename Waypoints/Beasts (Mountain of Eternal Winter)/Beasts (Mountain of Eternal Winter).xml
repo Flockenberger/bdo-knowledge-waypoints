@@ -1,0 +1,12 @@
+<!--
+    Waypoints for: Beasts (Mountain of Eternal Winter)
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Frost-tail Weasel" PosX="131301.90625" PosY="-343062.09375" PosZ="9924.99609375" />
+    <BookMark BookMarkName="Snowfield Yak" PosX="221349.5625" PosY="-397446.21875" PosZ="28065.595703125" />
+    <BookMark BookMarkName="Snowflake Stoneback Crab" PosX="127075.0" PosY="-365025.0" PosZ="13275.0" />
+    <BookMark BookMarkName="Snowfield Markhor" PosX="113070.0" PosY="-429189.0" PosZ="17095.69921875" />
+    <BookMark BookMarkName="Snow Leopard" PosX="140695.0" PosY="-416674.0" PosZ="18083.599609375" />
+    <BookMark BookMarkName="Winter Bear" PosX="148291.984375" PosY="-405084.0" PosZ="20263.498046875" />
+</WorldmapBookMark>

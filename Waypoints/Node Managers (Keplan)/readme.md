@@ -1,4 +1,8 @@
 # Node Managers (Keplan)
+
+This folder contains 26/26 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

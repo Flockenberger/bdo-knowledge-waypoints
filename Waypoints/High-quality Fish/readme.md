@@ -1,4 +1,130 @@
 # High-quality Fish
+
+This folder contains 8/38 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Red Snow Crab
+```
+
+```
+Flower Icefish
+```
+
+```
+Ribbon Eel
+```
+
+```
+Obtuse Barracuda
+```
+
+```
+Longnose Gar
+```
+
+```
+Pike Characin
+```
+
+```
+Swamp Eel
+```
+
+```
+Grass Carp
+```
+
+```
+Mori
+```
+
+```
+Stickleback
+```
+
+```
+Amur Goby
+```
+
+```
+Diamond Minnow
+```
+
+```
+Black Marlin
+```
+
+```
+Sailfish
+```
+
+```
+Marlin
+```
+
+```
+Yellow Swordfish
+```
+
+```
+Striped Shiner
+```
+
+```
+John Dory
+```
+
+```
+Maomao
+```
+
+```
+Atka Mackerel
+```
+
+```
+Pomfret
+```
+
+```
+Checkerboard Wrasse
+```
+
+```
+Tapertail Anchovy
+```
+
+```
+Yellow-head Catfish
+```
+
+```
+Sea Eel
+```
+
+```
+Siganid
+```
+
+```
+Cherry Salmon
+```
+
+```
+Freshwater Eel
+```
+
+```
+Carp
+```
+
+```
+Arowana
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

@@ -1,4 +1,8 @@
 # Sausan Garrison
+
+This folder contains 16/16 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,6 +22,9 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Sausan Supply Chest" PosX="202820.0" PosY="-1832.3800048828125" PosZ="135204.0" />
+    <BookMark BookMarkName="Sausan Cannoneer" PosX="203272.0" PosY="-1846.9599609375" PosZ="132860.0" />
+    <BookMark BookMarkName="Sausan Golden Wagon" PosX="202869.0" PosY="-1783.449951171875" PosZ="135558.0" />
     <BookMark BookMarkName="Sausan Guardian" PosX="239151.0" PosY="-3407.159912109375" PosZ="126976.0" />
     <BookMark BookMarkName="Sausan Tent" PosX="235274.0" PosY="-3409.47998046875" PosZ="132862.0" />
     <BookMark BookMarkName="Sausan Supply Camp" PosX="243883.0" PosY="-3410.5" PosZ="123987.0" />
@@ -28,7 +35,10 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Sausan Scout" PosX="238740.0" PosY="-2200.0" PosZ="116631.0" />
     <BookMark BookMarkName="Tough Sausan Soldier" PosX="238264.0" PosY="-1539.1600341796875" PosZ="121790.0" />
     <BookMark BookMarkName="Sausan Watch" PosX="240501.0" PosY="-2200.02001953125" PosZ="114267.0" />
+    <BookMark BookMarkName="Shultz Guard Armored Soldier" PosX="254018.0" PosY="-4447.169921875" PosZ="107468.0" />
+    <BookMark BookMarkName="Shultz Guard Sniper" PosX="255641.0" PosY="-4739.72021484375" PosZ="108044.0" />
+    <BookMark BookMarkName="Shultz Guard Gladiator" PosX="254203.0" PosY="-4421.990234375" PosZ="107195.0" />
 </WorldmapBookMark>
 ```
 
-<img src="./Sausan Garrison_Sausan Guardian_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Tent_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Supply Camp_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Watchtower_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Soldier_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Assassin_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Sniper_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Scout_Preview.webp" width="450"/> <img src="./Sausan Garrison_Tough Sausan Soldier_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Watch_Preview.webp" width="450"/> 
+<img src="./Sausan Garrison_Sausan Supply Chest_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Cannoneer_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Golden Wagon_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Guardian_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Tent_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Supply Camp_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Watchtower_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Soldier_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Assassin_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Sniper_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Scout_Preview.webp" width="450"/> <img src="./Sausan Garrison_Tough Sausan Soldier_Preview.webp" width="450"/> <img src="./Sausan Garrison_Sausan Watch_Preview.webp" width="450"/> <img src="./Sausan Garrison_Shultz Guard Armored Soldier_Preview.webp" width="450"/> <img src="./Sausan Garrison_Shultz Guard Sniper_Preview.webp" width="450"/> <img src="./Sausan Garrison_Shultz Guard Gladiator_Preview.webp" width="450"/> 

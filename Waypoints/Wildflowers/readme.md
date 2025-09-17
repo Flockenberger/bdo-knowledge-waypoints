@@ -1,4 +1,42 @@
 # Wildflowers
+
+This folder contains 13/21 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Reed
+```
+
+```
+Tigerflower
+```
+
+```
+Goosefoot Leaf
+```
+
+```
+Pink Rosebay
+```
+
+```
+Scarlet Rosebay
+```
+
+```
+Viola
+```
+
+```
+Maehwa
+```
+
+```
+Delotia
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,6 +56,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Bracken" PosX="-118959.0" PosY="6833.5400390625" PosZ="-274090.0" />
     <BookMark BookMarkName="Wild Herb" PosX="130243.0" PosY="6719.93017578125" PosZ="14181.7998046875" />
     <BookMark BookMarkName="Silk Honey Grass" PosX="-120377.0" PosY="5892.7001953125" PosZ="-97502.0" />
     <BookMark BookMarkName="Dry Mane Grass" PosX="-155314.0" PosY="5832.5" PosZ="101835.0" />
@@ -33,4 +72,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Wildflowers_Wild Herb_Preview.webp" width="450"/> <img src="./Wildflowers_Silk Honey Grass_Preview.webp" width="450"/> <img src="./Wildflowers_Dry Mane Grass_Preview.webp" width="450"/> <img src="./Wildflowers_Fire Flake Flower_Preview.webp" width="450"/> <img src="./Wildflowers_Silver Azalea_Preview.webp" width="450"/> <img src="./Wildflowers_Fruit Tree_Preview.webp" width="450"/> <img src="./Wildflowers_Sunrise Herb_Preview.webp" width="450"/> <img src="./Wildflowers_Everlasting Herb_Preview.webp" width="450"/> <img src="./Wildflowers_Bush_Preview.webp" width="450"/> <img src="./Wildflowers_Shrub_Preview.webp" width="450"/> <img src="./Wildflowers_Dry Thicket_Preview.webp" width="450"/> <img src="./Wildflowers_Thicket_Preview.webp" width="450"/> 
+<img src="./Wildflowers_Bracken_Preview.webp" width="450"/> <img src="./Wildflowers_Wild Herb_Preview.webp" width="450"/> <img src="./Wildflowers_Silk Honey Grass_Preview.webp" width="450"/> <img src="./Wildflowers_Dry Mane Grass_Preview.webp" width="450"/> <img src="./Wildflowers_Fire Flake Flower_Preview.webp" width="450"/> <img src="./Wildflowers_Silver Azalea_Preview.webp" width="450"/> <img src="./Wildflowers_Fruit Tree_Preview.webp" width="450"/> <img src="./Wildflowers_Sunrise Herb_Preview.webp" width="450"/> <img src="./Wildflowers_Everlasting Herb_Preview.webp" width="450"/> <img src="./Wildflowers_Bush_Preview.webp" width="450"/> <img src="./Wildflowers_Shrub_Preview.webp" width="450"/> <img src="./Wildflowers_Dry Thicket_Preview.webp" width="450"/> <img src="./Wildflowers_Thicket_Preview.webp" width="450"/> 

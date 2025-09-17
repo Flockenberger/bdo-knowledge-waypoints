@@ -1,4 +1,8 @@
 # People of Ulukita Wilds
+
+This folder contains 44/44 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

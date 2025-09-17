@@ -1,4 +1,8 @@
 # Red Orcs
+
+This folder contains 17/17 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -27,7 +31,10 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Long Red Orc" PosX="-77050.1875" PosY="285.20001220703125" PosZ="-129489.0" />
     <BookMark BookMarkName="Red Orc Berserker" PosX="-77060.8828125" PosY="477.7300109863281" PosZ="-135242.0" />
     <BookMark BookMarkName="Red Orc Fighter" PosX="-75239.890625" PosY="452.5199890136719" PosZ="-134471.0" />
+    <BookMark BookMarkName="Orc Mushroom Brazier" PosX="-117956.0" PosY="1133.489990234375" PosZ="-74242.796875" />
+    <BookMark BookMarkName="Orc Large Cauldron" PosX="-67237.6015625" PosY="-1521.3699951171875" PosZ="-124141.0" />
     <BookMark BookMarkName="Small Red Orc Warrior" PosX="-80025.3984375" PosY="56.99700164794922" PosZ="-125509.0" />
+    <BookMark BookMarkName="Small Red Orc" PosX="-71278.703125" PosY="-624.5360107421875" PosZ="-123427.0" />
     <BookMark BookMarkName="Red Orc Elite Soldier" PosX="-71045.296875" PosY="-511.7799987792969" PosZ="-103282.0" />
     <BookMark BookMarkName="Red Orc Wizard" PosX="-74900.4765625" PosY="474.8999938964844" PosZ="-135037.0" />
     <BookMark BookMarkName="Red Orc Warrior" PosX="-81220.78125" PosY="212.7899932861328" PosZ="-131886.0" />
@@ -35,4 +42,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Red Orcs_Red Orc Shamanic Cauldron_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Prison_Preview.webp" width="450"/> <img src="./Red Orcs_Firewood Orc_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Giant Altar_Preview.webp" width="450"/> <img src="./Red Orcs_Firebreathing Orc Cannon_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Hut_Preview.webp" width="450"/> <img src="./Red Orcs_Long Red Orc_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Berserker_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Fighter_Preview.webp" width="450"/> <img src="./Red Orcs_Small Red Orc Warrior_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Elite Soldier_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Wizard_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Warrior_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc_Preview.webp" width="450"/> 
+<img src="./Red Orcs_Red Orc Shamanic Cauldron_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Prison_Preview.webp" width="450"/> <img src="./Red Orcs_Firewood Orc_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Giant Altar_Preview.webp" width="450"/> <img src="./Red Orcs_Firebreathing Orc Cannon_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Hut_Preview.webp" width="450"/> <img src="./Red Orcs_Long Red Orc_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Berserker_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Fighter_Preview.webp" width="450"/> <img src="./Red Orcs_Orc Mushroom Brazier_Preview.webp" width="450"/> <img src="./Red Orcs_Orc Large Cauldron_Preview.webp" width="450"/> <img src="./Red Orcs_Small Red Orc Warrior_Preview.webp" width="450"/> <img src="./Red Orcs_Small Red Orc_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Elite Soldier_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Wizard_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc Warrior_Preview.webp" width="450"/> <img src="./Red Orcs_Red Orc_Preview.webp" width="450"/> 

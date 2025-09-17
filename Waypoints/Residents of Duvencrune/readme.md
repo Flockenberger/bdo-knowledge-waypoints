@@ -1,4 +1,8 @@
 # Residents of Duvencrune
+
+This folder contains 34/34 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

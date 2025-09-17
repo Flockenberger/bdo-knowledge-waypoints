@@ -1,4 +1,14 @@
 # Visitors of Donghae Province
+
+This folder contains 3/4 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Dolswe
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

@@ -1,4 +1,34 @@
 # Timber
+
+This folder contains 20/26 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Bamboo Sprout
+```
+
+```
+Thornwood
+```
+
+```
+Elder Tree Timber
+```
+
+```
+Caphras Tree
+```
+
+```
+Snowfield Cedar Tree
+```
+
+```
+Citron Tree
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -21,6 +51,10 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Silver Apricot Tree" PosX="-347862.0" PosY="10583.7998046875" PosZ="-253284.0" />
     <BookMark BookMarkName="Jujube Tree" PosX="-347862.0" PosY="10583.7998046875" PosZ="-253284.0" />
     <BookMark BookMarkName="Persimmon Tree" PosX="-347862.0" PosY="10583.7998046875" PosZ="-253284.0" />
+    <BookMark BookMarkName="Loopy Tree" PosX="-261550.0" PosY="18190.599609375" PosZ="-524367.0" />
+    <BookMark BookMarkName="Moss Tree" PosX="-137984.0" PosY="16491.80078125" PosZ="-508735.0" />
+    <BookMark BookMarkName="Cactus" PosX="412995.0" PosY="-700.530029296875" PosZ="81400.6015625" />
+    <BookMark BookMarkName="Thuja" PosX="-124173.0" PosY="11368.7001953125" PosZ="-286251.0" />
     <BookMark BookMarkName="Olive Tree" PosX="-120423.0" PosY="-1431.6099853515625" PosZ="89074.5" />
     <BookMark BookMarkName="Fir" PosX="-35153.30078125" PosY="-2709.72998046875" PosZ="56700.30078125" />
     <BookMark BookMarkName="Cedar Tree" PosX="-347862.0" PosY="10583.7998046875" PosZ="-253284.0" />
@@ -37,4 +71,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Timber_Silver Apricot Tree_Preview.webp" width="450"/> <img src="./Timber_Jujube Tree_Preview.webp" width="450"/> <img src="./Timber_Persimmon Tree_Preview.webp" width="450"/> <img src="./Timber_Olive Tree_Preview.webp" width="450"/> <img src="./Timber_Fir_Preview.webp" width="450"/> <img src="./Timber_Cedar Tree_Preview.webp" width="450"/> <img src="./Timber_Maple_Preview.webp" width="450"/> <img src="./Timber_Ash Tree_Preview.webp" width="450"/> <img src="./Timber_Birch_Preview.webp" width="450"/> <img src="./Timber_Pine Tree_Preview.webp" width="450"/> <img src="./Timber_Elder Tree_Preview.webp" width="450"/> <img src="./Timber_Acacia Tree_Preview.webp" width="450"/> <img src="./Timber_Palm Tree_Preview.webp" width="450"/> <img src="./Timber_Dried Old Tree_Preview.webp" width="450"/> <img src="./Timber_White Cedar_Preview.webp" width="450"/> <img src="./Timber_Apple Tree_Preview.webp" width="450"/> 
+<img src="./Timber_Silver Apricot Tree_Preview.webp" width="450"/> <img src="./Timber_Jujube Tree_Preview.webp" width="450"/> <img src="./Timber_Persimmon Tree_Preview.webp" width="450"/> <img src="./Timber_Loopy Tree_Preview.webp" width="450"/> <img src="./Timber_Moss Tree_Preview.webp" width="450"/> <img src="./Timber_Cactus_Preview.webp" width="450"/> <img src="./Timber_Thuja_Preview.webp" width="450"/> <img src="./Timber_Olive Tree_Preview.webp" width="450"/> <img src="./Timber_Fir_Preview.webp" width="450"/> <img src="./Timber_Cedar Tree_Preview.webp" width="450"/> <img src="./Timber_Maple_Preview.webp" width="450"/> <img src="./Timber_Ash Tree_Preview.webp" width="450"/> <img src="./Timber_Birch_Preview.webp" width="450"/> <img src="./Timber_Pine Tree_Preview.webp" width="450"/> <img src="./Timber_Elder Tree_Preview.webp" width="450"/> <img src="./Timber_Acacia Tree_Preview.webp" width="450"/> <img src="./Timber_Palm Tree_Preview.webp" width="450"/> <img src="./Timber_Dried Old Tree_Preview.webp" width="450"/> <img src="./Timber_White Cedar_Preview.webp" width="450"/> <img src="./Timber_Apple Tree_Preview.webp" width="450"/> 

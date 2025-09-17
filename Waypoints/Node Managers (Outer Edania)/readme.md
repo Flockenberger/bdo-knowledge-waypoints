@@ -1,4 +1,8 @@
 # Node Managers (Outer Edania)
+
+This folder contains 35/35 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

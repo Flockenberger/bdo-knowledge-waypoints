@@ -1,4 +1,14 @@
 # Shadows of O'dyllita
+
+This folder contains 14/15 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Ataraxia
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

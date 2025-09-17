@@ -1,4 +1,8 @@
 # Margoria's Star
+
+This folder contains 12/12 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

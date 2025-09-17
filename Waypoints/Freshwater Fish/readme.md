@@ -1,4 +1,242 @@
 # Freshwater Fish
+
+This folder contains 3/61 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Large-headed Goby
+```
+
+```
+King Spine Loach
+```
+
+```
+Short Barbel Gudgeon
+```
+
+```
+Dwarf Gudgeon
+```
+
+```
+South Torrent Catfish
+```
+
+```
+Short Ninespine Stickleback
+```
+
+```
+Rapid Goby
+```
+
+```
+Morning River Goby
+```
+
+```
+Ussurian Bullhead
+```
+
+```
+Chameleon Goby
+```
+
+```
+Sharpbelly
+```
+
+```
+Pike
+```
+
+```
+Spined Bittering
+```
+
+```
+Common Bleak
+```
+
+```
+Silver Carp
+```
+
+```
+Dark Sleeper
+```
+
+```
+Yalu Grayling
+```
+
+```
+Longsnout Catfish
+```
+
+```
+Bowfin
+```
+
+```
+Lamprey
+```
+
+```
+Dark Chub
+```
+
+```
+Common Pleco
+```
+
+```
+Silver Prochilodus
+```
+
+```
+Hatchetfish
+```
+
+```
+Leaffish
+```
+
+```
+Stone Moroko
+```
+
+```
+Amur Ide
+```
+
+```
+Spined Loach
+```
+
+```
+Cherry Icefish
+```
+
+```
+Minnow
+```
+
+```
+Morning Loach
+```
+
+```
+Oily Shiner
+```
+
+```
+Shuttles Hoppfish
+```
+
+```
+Stumpy Bullhead
+```
+
+```
+Common Minnow
+```
+
+```
+Amur Minnow
+```
+
+```
+Bubble Eye
+```
+
+```
+Soho Bitterling
+```
+
+```
+Barbel Steed
+```
+
+```
+Kuhlia Marginata
+```
+
+```
+Grayling
+```
+
+```
+Roundtail Paradisefish
+```
+
+```
+Rosy Bitterling
+```
+
+```
+Smelt
+```
+
+```
+Yellowfin Sculpin
+```
+
+```
+Bleeker
+```
+
+```
+Bitterling
+```
+
+```
+Goby Minnow
+```
+
+```
+Mudfish
+```
+
+```
+Notch Jaw
+```
+
+```
+Perch
+```
+
+```
+Bluegill
+```
+
+```
+Dace
+```
+
+```
+Crawfish
+```
+
+```
+Bass
+```
+
+```
+Terrapin
+```
+
+```
+Sweetfish
+```
+
+```
+Swiri
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

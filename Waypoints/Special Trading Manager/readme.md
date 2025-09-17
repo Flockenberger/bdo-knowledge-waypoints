@@ -1,4 +1,14 @@
 # Special Trading Manager
+
+This folder contains 14/15 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Mysterious Man
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

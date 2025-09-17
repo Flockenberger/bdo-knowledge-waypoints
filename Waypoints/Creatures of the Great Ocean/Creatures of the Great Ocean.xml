@@ -1,0 +1,15 @@
+<!--
+    Waypoints for: Creatures of the Great Ocean
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Saltwater Crocodile" PosX="-380633.0" PosY="-8150.0" PosZ="1400060.0" />
+    <BookMark BookMarkName="Goldmont Medium Battleship" PosX="-1300080.0" PosY="-8150.0" PosZ="1129110.0" />
+    <BookMark BookMarkName="Goldmont Small Battleship" PosX="-166699.0" PosY="-8150.0" PosZ="640148.0" />
+    <BookMark BookMarkName="Goldmont Large Battleship" PosX="-1278140.0" PosY="-8150.0" PosZ="816258.0" />
+    <BookMark BookMarkName="Ocean Stalker" PosX="-230270.0" PosY="-8150.0" PosZ="652737.0" />
+    <BookMark BookMarkName="Nineshark" PosX="-524782.0" PosY="-8150.0" PosZ="921614.0" />
+    <BookMark BookMarkName="Black Rust" PosX="-1270490.0" PosY="-8150.0" PosZ="892811.0" />
+    <BookMark BookMarkName="Hekaru" PosX="-151043.0" PosY="-8150.0" PosZ="685000.0" />
+    <BookMark BookMarkName="Candidum" PosX="-140784.0" PosY="-8150.0" PosZ="1241680.0" />
+</WorldmapBookMark>

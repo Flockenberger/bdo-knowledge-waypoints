@@ -1,4 +1,8 @@
 # Nox Sea
+
+This folder contains 5/5 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,6 +22,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Lema Island" PosX="-57387.0" PosY="-5864.56982421875" PosZ="396630.0" />
     <BookMark BookMarkName="Invernen Island" PosX="-127573.0" PosY="-5001.77001953125" PosZ="309870.0" />
     <BookMark BookMarkName="Tulu Island" PosX="-87025.5" PosY="-6921.89013671875" PosZ="326256.0" />
     <BookMark BookMarkName="Orffs Island" PosX="-55021.3984375" PosY="-3854.570068359375" PosZ="330371.0" />
@@ -25,4 +30,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Nox Sea_Invernen Island_Preview.webp" width="450"/> <img src="./Nox Sea_Tulu Island_Preview.webp" width="450"/> <img src="./Nox Sea_Orffs Island_Preview.webp" width="450"/> <img src="./Nox Sea_Tashu Island_Preview.webp" width="450"/> 
+<img src="./Nox Sea_Lema Island_Preview.webp" width="450"/> <img src="./Nox Sea_Invernen Island_Preview.webp" width="450"/> <img src="./Nox Sea_Tulu Island_Preview.webp" width="450"/> <img src="./Nox Sea_Orffs Island_Preview.webp" width="450"/> <img src="./Nox Sea_Tashu Island_Preview.webp" width="450"/> 

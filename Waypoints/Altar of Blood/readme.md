@@ -1,4 +1,54 @@
 # Altar of Blood
+
+This folder contains 4/15 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Saunil Catapult (Illusion)
+```
+
+```
+The 10th Illusion - Regret
+```
+
+```
+The 9th Illusion - Fear
+```
+
+```
+The 8th Illusion - Betrayal
+```
+
+```
+The 7th Illusion - Oblivion
+```
+
+```
+The 6th Illusion - Despair
+```
+
+```
+The 5th Illusion - Distrust
+```
+
+```
+The 4th Illusion - Desire
+```
+
+```
+The 3rd Illusion - Elusion
+```
+
+```
+The 2nd Illusion - Detest
+```
+
+```
+The 1st Illusion - Savage
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

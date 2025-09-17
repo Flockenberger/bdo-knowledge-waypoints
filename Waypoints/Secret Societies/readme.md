@@ -1,4 +1,8 @@
 # Secret Societies
+
+This folder contains 19/19 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,8 +22,14 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Hand of Kzarka" PosX="-434615.0" PosY="16186.2998046875" PosZ="-170394.0" />
     <BookMark BookMarkName="Calpheon Shrine Pillar" PosX="-424801.0" PosY="16987.30078125" PosZ="-209904.0" />
+    <BookMark BookMarkName="Aura of Failed Kzarka" PosX="-421832.0" PosY="17274.69921875" PosZ="-210015.0" />
+    <BookMark BookMarkName="Calpheon Elite Shadow Priestess" PosX="-341215.0" PosY="7828.9599609375" PosZ="-187888.0" />
+    <BookMark BookMarkName="Cave Stalactite" PosX="-345203.0" PosY="10370.099609375" PosZ="-204784.0" />
+    <BookMark BookMarkName="Remnants of Kzarka" PosX="-422397.0" PosY="17266.0" PosZ="-210292.0" />
     <BookMark BookMarkName="Calpheon Shrine Warrior" PosX="-431375.0" PosY="17180.099609375" PosZ="-201520.046875" />
+    <BookMark BookMarkName="Calpheon Elite Shadow Knight" PosX="-345005.0" PosY="11522.0" PosZ="-200485.0" />
     <BookMark BookMarkName="Calpheon Shrine Elite Wizard" PosX="-426246.0" PosY="16971.19921875" PosZ="-209315.046875" />
     <BookMark BookMarkName="Calpheon Shrine Elite Warrior" PosX="-425995.0" PosY="16971.19921875" PosZ="-209466.0" />
     <BookMark BookMarkName="Calpheon Shrine Priestess" PosX="-424314.03125" PosY="17833.900390625" PosZ="-197398.09375" />
@@ -34,4 +44,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Secret Societies_Calpheon Shrine Pillar_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shrine Warrior_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shrine Elite Wizard_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shrine Elite Warrior_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shrine Priestess_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shadow Guard_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shadow Wizard_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shadow Knight_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Angry Protester_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Protester Berserker_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Protester Priestess_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Protester Warrior_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Protester_Preview.webp" width="450"/> 
+<img src="./Secret Societies_Hand of Kzarka_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shrine Pillar_Preview.webp" width="450"/> <img src="./Secret Societies_Aura of Failed Kzarka_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Elite Shadow Priestess_Preview.webp" width="450"/> <img src="./Secret Societies_Cave Stalactite_Preview.webp" width="450"/> <img src="./Secret Societies_Remnants of Kzarka_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shrine Warrior_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Elite Shadow Knight_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shrine Elite Wizard_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shrine Elite Warrior_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shrine Priestess_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shadow Guard_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shadow Wizard_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Shadow Knight_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Angry Protester_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Protester Berserker_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Protester Priestess_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Protester Warrior_Preview.webp" width="450"/> <img src="./Secret Societies_Calpheon Protester_Preview.webp" width="450"/> 

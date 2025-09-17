@@ -3,6 +3,7 @@
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Northern Lake Kaia" PosX="-324867.0" PosY="-1855.4599609375" PosZ="-103238.0" />
     <BookMark BookMarkName="North Kaia Mountaintop" PosX="-279740.0" PosY="12351.099609375" PosZ="-107291.0" />
     <BookMark BookMarkName="Phoniel's Cabin Entrance" PosX="-275398.0" PosY="-841.2739868164062" PosZ="-169558.0" />
     <BookMark BookMarkName="Hexe Sanctuary" PosX="-231169.0" PosY="5973.3798828125" PosZ="-251607.0" />
@@ -10,6 +11,7 @@
     <BookMark BookMarkName="Phoniel's Cabin" PosX="-305939.0" PosY="7365.1298828125" PosZ="-146446.0" />
     <BookMark BookMarkName="Witch's Chapel" PosX="-199844.0" PosY="8756.2197265625" PosZ="-275713.0" />
     <BookMark BookMarkName="Longleaf Tree Forest" PosX="-306320.0" PosY="11934.099609375" PosZ="-264393.0" />
+    <BookMark BookMarkName="Southern Lake Kaia" PosX="-324867.0" PosY="-1855.4599609375" PosZ="-103238.0" />
     <BookMark BookMarkName="Treant Forest" PosX="-407983.0" PosY="5769.22998046875" PosZ="-174300.0" />
     <BookMark BookMarkName="Calpheon Castle" PosX="-345690.0" PosY="800.0070190429688" PosZ="-46954.30078125" />
     <BookMark BookMarkName="Behr" PosX="-286220.0" PosY="4738.7900390625" PosZ="-239774.0" />
@@ -26,6 +28,7 @@
     <BookMark BookMarkName="Rhua Tree Stub" PosX="-252270.0" PosY="-312.677001953125" PosZ="-208412.0" />
     <BookMark BookMarkName="Crioville" PosX="-325619.0" PosY="9543.490234375" PosZ="-256559.0" />
     <BookMark BookMarkName="Abandoned Monastery" PosX="-368780.0" PosY="10385.0" PosZ="-174985.0" />
+    <BookMark BookMarkName="Rhutum Sentry Post" PosX="-383758.0" PosY="9971.2099609375" PosZ="-229653.0" />
     <BookMark BookMarkName="Rhutum Outstation" PosX="-329493.0" PosY="1769.800048828125" PosZ="-132677.0" />
     <BookMark BookMarkName="Behr Riverhead" PosX="-305059.0" PosY="2886.780029296875" PosZ="-186082.0" />
     <BookMark BookMarkName="North Kaia Pier" PosX="-318235.0" PosY="-3681.760009765625" PosZ="-86274.703125" />

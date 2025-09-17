@@ -1,0 +1,47 @@
+# Drieghan Autonomous Region
+
+This folder contains 13/14 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Duvencrune
+```
+
+
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: Drieghan Autonomous Region
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Marak Farm" PosX="22.149499893188477" PosY="33727.30078125" PosZ="-393709.0" />
+    <BookMark BookMarkName="Blood Wolf Settlement" PosX="68862.1015625" PosY="34897.30078125" PosZ="-344909.0" />
+    <BookMark BookMarkName="Tshira Ruins" PosX="104545.0" PosY="3355.75" PosZ="-274915.0" />
+    <BookMark BookMarkName="Gervish Mountains" PosX="13596.099609375" PosY="11325.099609375" PosZ="-287837.0" />
+    <BookMark BookMarkName="Fountain of Origin" PosX="-174237.0" PosY="28451.099609375" PosZ="-303429.0" />
+    <BookMark BookMarkName="Gayak Altar" PosX="-127738.0" PosY="8136.68017578125" PosZ="-445748.0" />
+    <BookMark BookMarkName="Windy Peak" PosX="-88217.203125" PosY="27474.80078125" PosZ="-330611.0" />
+    <BookMark BookMarkName="Night Crow Post" PosX="19488.400390625" PosY="35561.19921875" PosZ="-340168.0" />
+    <BookMark BookMarkName="Morning Fog Post" PosX="-84233.3984375" PosY="25228.599609375" PosZ="-361820.0" />
+    <BookMark BookMarkName="Harak's Shelter" PosX="-108699.0" PosY="8126.330078125" PosZ="-386259.0" />
+    <BookMark BookMarkName="Garmoth's Nest" PosX="-11961.0" PosY="10862.7001953125" PosZ="-322998.0" />
+    <BookMark BookMarkName="Sherekhan Necropolis" PosX="-157789.0" PosY="21745.400390625" PosZ="-360345.0" />
+    <BookMark BookMarkName="Duvencrune Farmland" PosX="-64755.1015625" PosY="19180.5" PosZ="-421527.0" />
+</WorldmapBookMark>
+```
+
+<img src="./Drieghan Autonomous Region_Marak Farm_Preview.webp" width="450"/> <img src="./Drieghan Autonomous Region_Blood Wolf Settlement_Preview.webp" width="450"/> <img src="./Drieghan Autonomous Region_Tshira Ruins_Preview.webp" width="450"/> <img src="./Drieghan Autonomous Region_Gervish Mountains_Preview.webp" width="450"/> <img src="./Drieghan Autonomous Region_Fountain of Origin_Preview.webp" width="450"/> <img src="./Drieghan Autonomous Region_Gayak Altar_Preview.webp" width="450"/> <img src="./Drieghan Autonomous Region_Windy Peak_Preview.webp" width="450"/> <img src="./Drieghan Autonomous Region_Night Crow Post_Preview.webp" width="450"/> <img src="./Drieghan Autonomous Region_Morning Fog Post_Preview.webp" width="450"/> <img src="./Drieghan Autonomous Region_Harak's Shelter_Preview.webp" width="450"/> <img src="./Drieghan Autonomous Region_Garmoth's Nest_Preview.webp" width="450"/> <img src="./Drieghan Autonomous Region_Sherekhan Necropolis_Preview.webp" width="450"/> <img src="./Drieghan Autonomous Region_Duvencrune Farmland_Preview.webp" width="450"/> 

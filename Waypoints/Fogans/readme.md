@@ -1,4 +1,8 @@
 # Fogans
+
+This folder contains 14/14 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -26,6 +30,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Fogan Defense Tower" PosX="13478.2998046875" PosY="-2188.409912109375" PosZ="-127510.0" />
     <BookMark BookMarkName="Fogan Amulet" PosX="14451.2001953125" PosY="-2087.68994140625" PosZ="-124625.0" />
     <BookMark BookMarkName="Fogan Archer Dugout" PosX="51580.2109375" PosY="-671.6799926757812" PosZ="-90415.171875" />
+    <BookMark BookMarkName="Swamp Fogan Warrior" PosX="-6566.990234375" PosY="-2149.139892578125" PosZ="-134388.0" />
     <BookMark BookMarkName="Swamp Fogan Egg" PosX="14423.5" PosY="-1940.8599853515625" PosZ="-123356.0" />
     <BookMark BookMarkName="Swamp Fogan Fortuneteller" PosX="15525.5" PosY="-2164.7900390625" PosZ="-127745.0" />
     <BookMark BookMarkName="Swamp Fogan Lookout" PosX="2572.18994140625" PosY="-2111.43994140625" PosZ="-136454.0" />
@@ -34,4 +39,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Fogans_Swamp Fogan Giant Tower_Preview.webp" width="450"/> <img src="./Fogans_Small Swamp Fogan_Preview.webp" width="450"/> <img src="./Fogans_Big Swamp Fogan_Preview.webp" width="450"/> <img src="./Fogans_Fogan Hatchling_Preview.webp" width="450"/> <img src="./Fogans_Fogan Food Depot_Preview.webp" width="450"/> <img src="./Fogans_Fogan Defense Tower_Preview.webp" width="450"/> <img src="./Fogans_Fogan Amulet_Preview.webp" width="450"/> <img src="./Fogans_Fogan Archer Dugout_Preview.webp" width="450"/> <img src="./Fogans_Swamp Fogan Egg_Preview.webp" width="450"/> <img src="./Fogans_Swamp Fogan Fortuneteller_Preview.webp" width="450"/> <img src="./Fogans_Swamp Fogan Lookout_Preview.webp" width="450"/> <img src="./Fogans_Swamp Fogan Guard_Preview.webp" width="450"/> <img src="./Fogans_Swamp Fogan_Preview.webp" width="450"/> 
+<img src="./Fogans_Swamp Fogan Giant Tower_Preview.webp" width="450"/> <img src="./Fogans_Small Swamp Fogan_Preview.webp" width="450"/> <img src="./Fogans_Big Swamp Fogan_Preview.webp" width="450"/> <img src="./Fogans_Fogan Hatchling_Preview.webp" width="450"/> <img src="./Fogans_Fogan Food Depot_Preview.webp" width="450"/> <img src="./Fogans_Fogan Defense Tower_Preview.webp" width="450"/> <img src="./Fogans_Fogan Amulet_Preview.webp" width="450"/> <img src="./Fogans_Fogan Archer Dugout_Preview.webp" width="450"/> <img src="./Fogans_Swamp Fogan Warrior_Preview.webp" width="450"/> <img src="./Fogans_Swamp Fogan Egg_Preview.webp" width="450"/> <img src="./Fogans_Swamp Fogan Fortuneteller_Preview.webp" width="450"/> <img src="./Fogans_Swamp Fogan Lookout_Preview.webp" width="450"/> <img src="./Fogans_Swamp Fogan Guard_Preview.webp" width="450"/> <img src="./Fogans_Swamp Fogan_Preview.webp" width="450"/> 

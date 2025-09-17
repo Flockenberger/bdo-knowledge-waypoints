@@ -1,4 +1,8 @@
 # Calpheon Territory (Stable Keeper)
+
+This folder contains 7/7 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

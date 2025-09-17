@@ -1,4 +1,62 @@
 # Node Managers (Morning Light - Hwanghae Province)
+
+This folder contains 8/21 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Samsin Tree
+```
+
+```
+Dragon's Rest
+```
+
+```
+Someone's Journal
+```
+
+```
+Broken Wagon
+```
+
+```
+Bonghwang Statue
+```
+
+```
+Sky Altar Stele
+```
+
+```
+Vine Flower Tree
+```
+
+```
+Sacrament House
+```
+
+```
+Exile Sentry
+```
+
+```
+Old Pier
+```
+
+```
+Holbon Castle Ruins
+```
+
+```
+Forgetkkebi
+```
+
+```
+Empty Cup
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

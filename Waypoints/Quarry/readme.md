@@ -1,4 +1,8 @@
 # Quarry
+
+This folder contains 15/15 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,6 +22,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Petrified Laborer Sculpture" PosX="-139344.0" PosY="2717.27001953125" PosZ="-69939.296875" />
     <BookMark BookMarkName="Half-petrified Miner" PosX="-140983.984375" PosY="-1828.7099609375" PosZ="-161375.96875" />
     <BookMark BookMarkName="Petrified Miner" PosX="-150182.984375" PosY="1847.9599609375" PosZ="-123221.9765625" />
     <BookMark BookMarkName="Rock Spider" PosX="-137399.0" PosY="728.4940185546875" PosZ="-148516.0" />
@@ -35,4 +40,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Quarry_Half-petrified Miner_Preview.webp" width="450"/> <img src="./Quarry_Petrified Miner_Preview.webp" width="450"/> <img src="./Quarry_Rock Spider_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Worker_Preview.webp" width="450"/> <img src="./Quarry_Golem Spider_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Berserk Miner_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Foreman_Preview.webp" width="450"/> <img src="./Quarry_Junk Pile_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Dwarf_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Bomber_Preview.webp" width="450"/> <img src="./Quarry_Keplan Catapult_Preview.webp" width="450"/> <img src="./Quarry_Keplan Saw_Preview.webp" width="450"/> <img src="./Quarry_Junk Golem_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Miner_Preview.webp" width="450"/> 
+<img src="./Quarry_Petrified Laborer Sculpture_Preview.webp" width="450"/> <img src="./Quarry_Half-petrified Miner_Preview.webp" width="450"/> <img src="./Quarry_Petrified Miner_Preview.webp" width="450"/> <img src="./Quarry_Rock Spider_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Worker_Preview.webp" width="450"/> <img src="./Quarry_Golem Spider_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Berserk Miner_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Foreman_Preview.webp" width="450"/> <img src="./Quarry_Junk Pile_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Dwarf_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Bomber_Preview.webp" width="450"/> <img src="./Quarry_Keplan Catapult_Preview.webp" width="450"/> <img src="./Quarry_Keplan Saw_Preview.webp" width="450"/> <img src="./Quarry_Junk Golem_Preview.webp" width="450"/> <img src="./Quarry_Petrifying Miner_Preview.webp" width="450"/> 

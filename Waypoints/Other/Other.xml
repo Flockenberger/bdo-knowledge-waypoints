@@ -3,5 +3,9 @@
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Paste Bait" PosX="7132.22998046875" PosY="-7818.83984375" PosZ="83073.1015625" />
     <BookMark BookMarkName="Cotton" PosX="-155836.0" PosY="5271.490234375" PosZ="113650.0" />
+    <BookMark BookMarkName="Trace of Nature" PosX="-229908.0" PosY="-2324.929931640625" PosZ="11573.7998046875" />
+    <BookMark BookMarkName="Young White-Tailed Deer" PosX="-62947.69921875" PosY="5484.35009765625" PosZ="-223581.0" />
+    <BookMark BookMarkName="White-Tailed Deer" PosX="-23127.599609375" PosY="15500.7998046875" PosZ="-196986.0" />
 </WorldmapBookMark>

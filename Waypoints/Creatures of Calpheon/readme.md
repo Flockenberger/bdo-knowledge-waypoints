@@ -1,4 +1,8 @@
 # Creatures of Calpheon
+
+This folder contains 18/18 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -19,6 +23,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
 -->
 <WorldmapBookMark>
     <BookMark BookMarkName="Root Nymph Rest Area" PosX="-318813.0" PosY="10691.0" PosZ="-280151.0" />
+    <BookMark BookMarkName="Ruins Monster" PosX="-163711.0" PosY="272.2030029296875" PosZ="-76691.1015625" />
     <BookMark BookMarkName="Crow" PosX="-237672.015625" PosY="-1727.5400390625" PosZ="-25772.189453125" />
     <BookMark BookMarkName="Cave Flytrap Worm" PosX="-178328.96875" PosY="-2413.580078125" PosZ="-144422.0" />
     <BookMark BookMarkName="Big Glutoni" PosX="-179942.0" PosY="-2402.139892578125" PosZ="-140161.0" />
@@ -38,4 +43,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Creatures of Calpheon_Root Nymph Rest Area_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Crow_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Cave Flytrap Worm_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Big Glutoni_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Small Glutoni_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Mutant Glutoni_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Medium-sized Glutoni_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Stoneback Crab Egg_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Faust Forest Tiny Stoneback Crab_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Faust Forest Tough Stoneback Crab_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Earth Root Nymph_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Fire Root Nymph_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Grass Root Nymph_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Rough Stoneback Crab_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Faust Forest Herb Stoneback Crab_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Faust Forest Scrub Stoneback Crab_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Baby Gargoyle_Preview.webp" width="450"/> 
+<img src="./Creatures of Calpheon_Root Nymph Rest Area_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Ruins Monster_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Crow_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Cave Flytrap Worm_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Big Glutoni_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Small Glutoni_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Mutant Glutoni_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Medium-sized Glutoni_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Stoneback Crab Egg_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Faust Forest Tiny Stoneback Crab_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Faust Forest Tough Stoneback Crab_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Earth Root Nymph_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Fire Root Nymph_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Grass Root Nymph_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Rough Stoneback Crab_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Faust Forest Herb Stoneback Crab_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Faust Forest Scrub Stoneback Crab_Preview.webp" width="450"/> <img src="./Creatures of Calpheon_Baby Gargoyle_Preview.webp" width="450"/> 

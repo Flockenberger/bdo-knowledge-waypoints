@@ -1,4 +1,8 @@
 # Elionism & the Delphe Knights
+
+This folder contains 19/19 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -19,6 +23,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
 -->
 <WorldmapBookMark>
     <BookMark BookMarkName="Laderr" PosX="-370187.0" PosY="10146.400390625" PosZ="-175570.0" />
+    <BookMark BookMarkName="Bacho Ladericcio" PosX="-369948.0" PosY="10161.099609375" PosZ="-174705.0" />
     <BookMark BookMarkName="Leona" PosX="-273362.0" PosY="-953.6690063476562" PosZ="-71460.8984375" />
     <BookMark BookMarkName="Balker Batian" PosX="-273606.0" PosY="-954.6580200195312" PosZ="-71068.0" />
     <BookMark BookMarkName="Michael" PosX="-271709.0" PosY="-955.9110107421875" PosZ="-70167.6015625" />
@@ -39,4 +44,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Elionism & the Delphe Knights_Laderr_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Leona_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Balker Batian_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Michael_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Lehard Motenon_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Vitheons Belucci_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Samier_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Raibo_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Rouibo_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Bipache_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Margaret_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Brego Williar_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Christopher Varkaant_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_St. Pjorn_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Elgriffin_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Reyas_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Jeron_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Granbill_Preview.webp" width="450"/> 
+<img src="./Elionism & the Delphe Knights_Laderr_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Bacho Ladericcio_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Leona_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Balker Batian_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Michael_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Lehard Motenon_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Vitheons Belucci_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Samier_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Raibo_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Rouibo_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Bipache_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Margaret_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Brego Williar_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Christopher Varkaant_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_St. Pjorn_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Elgriffin_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Reyas_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Jeron_Preview.webp" width="450"/> <img src="./Elionism & the Delphe Knights_Granbill_Preview.webp" width="450"/> 

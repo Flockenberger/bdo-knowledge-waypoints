@@ -1,4 +1,8 @@
 # Keplan
+
+This folder contains 27/27 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -22,6 +26,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Tarte Rock Fork" PosX="-190545.0" PosY="-2917.1201171875" PosZ="-162334.0" />
     <BookMark BookMarkName="Dane Canyon" PosX="-189926.0" PosY="1423.5" PosZ="-202732.0" />
     <BookMark BookMarkName="Oze's House" PosX="-149062.0" PosY="5238.3701171875" PosZ="-105825.0" />
+    <BookMark BookMarkName="Keplan Quarry" PosX="-159087.0" PosY="-1206.81005859375" PosZ="-152348.0" />
     <BookMark BookMarkName="Quarry Byway" PosX="-121620.0" PosY="1311.4599609375" PosZ="-111726.0" />
     <BookMark BookMarkName="Glutoni Cave" PosX="-174138.0" PosY="-1104.760009765625" PosZ="-145028.0" />
     <BookMark BookMarkName="Serendia Western Gateway" PosX="-96355.0" PosY="1869.1500244140625" PosZ="-176582.0" />
@@ -47,4 +52,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Keplan_Keplan_Preview.webp" width="450"/> <img src="./Keplan_Tarte Rock Fork_Preview.webp" width="450"/> <img src="./Keplan_Dane Canyon_Preview.webp" width="450"/> <img src="./Keplan_Oze's House_Preview.webp" width="450"/> <img src="./Keplan_Quarry Byway_Preview.webp" width="450"/> <img src="./Keplan_Glutoni Cave_Preview.webp" width="450"/> <img src="./Keplan_Serendia Western Gateway_Preview.webp" width="450"/> <img src="./Keplan_Gianin Farm_Preview.webp" width="450"/> <img src="./Keplan_Keplan Vicinity_Preview.webp" width="450"/> <img src="./Keplan_Gehaku Plain_Preview.webp" width="450"/> <img src="./Keplan_Abandoned Quarry_Preview.webp" width="450"/> <img src="./Keplan_Beacon Entrance Post_Preview.webp" width="450"/> <img src="./Keplan_Saunil Camp_Preview.webp" width="450"/> <img src="./Keplan_Keplan Hill_Preview.webp" width="450"/> <img src="./Keplan_Marni Farm Ruins_Preview.webp" width="450"/> <img src="./Keplan_Oze Pass_Preview.webp" width="450"/> <img src="./Keplan_Oberen Farm_Preview.webp" width="450"/> <img src="./Keplan_North Abandoned Quarry_Preview.webp" width="450"/> <img src="./Keplan_Bain Farmland_Preview.webp" width="450"/> <img src="./Keplan_Hexe Stone Wall_Preview.webp" width="450"/> <img src="./Keplan_Falres Dirt Farm_Preview.webp" width="450"/> <img src="./Keplan_Marni's Lab_Preview.webp" width="450"/> <img src="./Keplan_Trina Beacon Towers_Preview.webp" width="450"/> <img src="./Keplan_Trina Fort_Preview.webp" width="450"/> <img src="./Keplan_Saunil Battlefield_Preview.webp" width="450"/> <img src="./Keplan_Primal Giant Post_Preview.webp" width="450"/> 
+<img src="./Keplan_Keplan_Preview.webp" width="450"/> <img src="./Keplan_Tarte Rock Fork_Preview.webp" width="450"/> <img src="./Keplan_Dane Canyon_Preview.webp" width="450"/> <img src="./Keplan_Oze's House_Preview.webp" width="450"/> <img src="./Keplan_Keplan Quarry_Preview.webp" width="450"/> <img src="./Keplan_Quarry Byway_Preview.webp" width="450"/> <img src="./Keplan_Glutoni Cave_Preview.webp" width="450"/> <img src="./Keplan_Serendia Western Gateway_Preview.webp" width="450"/> <img src="./Keplan_Gianin Farm_Preview.webp" width="450"/> <img src="./Keplan_Keplan Vicinity_Preview.webp" width="450"/> <img src="./Keplan_Gehaku Plain_Preview.webp" width="450"/> <img src="./Keplan_Abandoned Quarry_Preview.webp" width="450"/> <img src="./Keplan_Beacon Entrance Post_Preview.webp" width="450"/> <img src="./Keplan_Saunil Camp_Preview.webp" width="450"/> <img src="./Keplan_Keplan Hill_Preview.webp" width="450"/> <img src="./Keplan_Marni Farm Ruins_Preview.webp" width="450"/> <img src="./Keplan_Oze Pass_Preview.webp" width="450"/> <img src="./Keplan_Oberen Farm_Preview.webp" width="450"/> <img src="./Keplan_North Abandoned Quarry_Preview.webp" width="450"/> <img src="./Keplan_Bain Farmland_Preview.webp" width="450"/> <img src="./Keplan_Hexe Stone Wall_Preview.webp" width="450"/> <img src="./Keplan_Falres Dirt Farm_Preview.webp" width="450"/> <img src="./Keplan_Marni's Lab_Preview.webp" width="450"/> <img src="./Keplan_Trina Beacon Towers_Preview.webp" width="450"/> <img src="./Keplan_Trina Fort_Preview.webp" width="450"/> <img src="./Keplan_Saunil Battlefield_Preview.webp" width="450"/> <img src="./Keplan_Primal Giant Post_Preview.webp" width="450"/> 

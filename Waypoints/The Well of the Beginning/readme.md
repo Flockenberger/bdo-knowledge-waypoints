@@ -1,4 +1,14 @@
 # The Well of the Beginning
+
+This folder contains 10/11 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Edania - Hakinza Sanctuary
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

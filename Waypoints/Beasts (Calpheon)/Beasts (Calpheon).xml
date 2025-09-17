@@ -3,6 +3,10 @@
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Ambushing Stone Spider" PosX="-123021.0" PosY="1502.47998046875" PosZ="-149038.0" />
+    <BookMark BookMarkName="Mutant Gargoyle" PosX="-292975.0" PosY="8675.0" PosZ="-267064.0" />
+    <BookMark BookMarkName="Brown Bear" PosX="-312739.0" PosY="10819.0" PosZ="-264512.0" />
+    <BookMark BookMarkName="Sharp Rock Spider" PosX="-138362.0" PosY="2259.639892578125" PosZ="-115769.0" />
     <BookMark BookMarkName="Mature Stone Rat" PosX="-167862.0" PosY="-2140.090087890625" PosZ="-178650.0" />
     <BookMark BookMarkName="Spotted Deer" PosX="-201907.0" PosY="3072.260009765625" PosZ="34261.3984375" />
     <BookMark BookMarkName="Female Elk" PosX="-285074.0" PosY="9453.990234375" PosZ="-259666.0" />
@@ -16,6 +20,9 @@
     <BookMark BookMarkName="Plantation Small Mole" PosX="-205870.0625" PosY="-1440.3399658203125" PosZ="-9115.6103515625" />
     <BookMark BookMarkName="Bat" PosX="-67012.296875" PosY="-2526.6201171875" PosZ="-103824.03125" />
     <BookMark BookMarkName="Young Stone Rat" PosX="-166988.0" PosY="-2121.56005859375" PosZ="-180110.0" />
+    <BookMark BookMarkName="Mountain Lamb" PosX="-151604.0" PosY="2028.7900390625" PosZ="-199087.0" />
+    <BookMark BookMarkName="Brown Raccoon" PosX="-190375.0" PosY="-2230.02001953125" PosZ="-30303.599609375" />
+    <BookMark BookMarkName="Blue Lizard" PosX="-253948.0" PosY="-1699.75" PosZ="-124466.0" />
     <BookMark BookMarkName="Calpheon Beetle" PosX="-129283.0" PosY="2033.0799560546875" PosZ="-121760.0" />
     <BookMark BookMarkName="Young Red Boar" PosX="-173625.0" PosY="3818.919921875" PosZ="-234651.0" />
     <BookMark BookMarkName="Calpheon Worm" PosX="-205017.0625" PosY="-6887.2099609375" PosZ="3159.840087890625" />
@@ -28,6 +35,7 @@
     <BookMark BookMarkName="Rainbow Fox" PosX="-207436.0625" PosY="2268.52001953125" PosZ="-93393.171875" />
     <BookMark BookMarkName="Stonescale Devourer" PosX="-234316.0" PosY="130.08700561523438" PosZ="-187210.0" />
     <BookMark BookMarkName="Spotted Hyena" PosX="-136043.0" PosY="3474.5400390625" PosZ="-235984.03125" />
+    <BookMark BookMarkName="Red Boar's Den" PosX="-316035.0" PosY="10365.5" PosZ="-241408.0" />
     <BookMark BookMarkName="Red Bear" PosX="-383236.0" PosY="1993.6300048828125" PosZ="-100321.0" />
     <BookMark BookMarkName="Ferocious Weasel" PosX="-382792.0" PosY="6315.52978515625" PosZ="-185264.0" />
     <BookMark BookMarkName="Long-haired Water Buffalo" PosX="-164770.0" PosY="735.0230102539062" PosZ="14899.099609375" />

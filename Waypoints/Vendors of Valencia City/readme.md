@@ -1,4 +1,8 @@
 # Vendors of Valencia City
+
+This folder contains 16/16 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

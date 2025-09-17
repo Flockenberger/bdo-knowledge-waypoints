@@ -1,4 +1,8 @@
 # Vendors of Everfrost
+
+This folder contains 27/27 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

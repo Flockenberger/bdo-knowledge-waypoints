@@ -1,4 +1,8 @@
 # Residents of Star's End
+
+This folder contains 4/4 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

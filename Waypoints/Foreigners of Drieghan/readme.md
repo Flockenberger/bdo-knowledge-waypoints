@@ -1,4 +1,14 @@
 # Foreigners of Drieghan
+
+This folder contains 14/15 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Nerman
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

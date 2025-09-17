@@ -1,4 +1,8 @@
 # Goblins
+
+This folder contains 10/10 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,6 +22,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Giath's Secret" PosX="41311.1015625" PosY="-4310.56982421875" PosZ="62581.30078125" />
     <BookMark BookMarkName="Giant Goblin Totem" PosX="55962.91015625" PosY="-3067.300048828125" PosZ="78871.4765625" />
     <BookMark BookMarkName="Giant Goblin Tower" PosX="51315.12109375" PosY="-3073.64990234375" PosZ="48720.2890625" />
     <BookMark BookMarkName="Goblin Cauldron" PosX="49115.6796875" PosY="-4193.919921875" PosZ="82476.8828125" />
@@ -30,4 +35,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Goblins_Giant Goblin Totem_Preview.webp" width="450"/> <img src="./Goblins_Giant Goblin Tower_Preview.webp" width="450"/> <img src="./Goblins_Goblin Cauldron_Preview.webp" width="450"/> <img src="./Goblins_Goblin Watchtower_Preview.webp" width="450"/> <img src="./Goblins_Goblin Elite Soldier_Preview.webp" width="450"/> <img src="./Goblins_Goblin Shaman_Preview.webp" width="450"/> <img src="./Goblins_Goblin Thrower_Preview.webp" width="450"/> <img src="./Goblins_Goblin Fighter_Preview.webp" width="450"/> <img src="./Goblins_Goblin_Preview.webp" width="450"/> 
+<img src="./Goblins_Giath's Secret_Preview.webp" width="450"/> <img src="./Goblins_Giant Goblin Totem_Preview.webp" width="450"/> <img src="./Goblins_Giant Goblin Tower_Preview.webp" width="450"/> <img src="./Goblins_Goblin Cauldron_Preview.webp" width="450"/> <img src="./Goblins_Goblin Watchtower_Preview.webp" width="450"/> <img src="./Goblins_Goblin Elite Soldier_Preview.webp" width="450"/> <img src="./Goblins_Goblin Shaman_Preview.webp" width="450"/> <img src="./Goblins_Goblin Thrower_Preview.webp" width="450"/> <img src="./Goblins_Goblin Fighter_Preview.webp" width="450"/> <img src="./Goblins_Goblin_Preview.webp" width="450"/> 

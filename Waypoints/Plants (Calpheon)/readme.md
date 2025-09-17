@@ -1,4 +1,8 @@
 # Plants (Calpheon)
+
+This folder contains 13/13 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,6 +22,8 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Toxic Cave Plant" PosX="-176964.0" PosY="-2311.8798828125" PosZ="-138169.0" />
+    <BookMark BookMarkName="Treant Crystal Tree" PosX="-354377.0" PosY="10058.5" PosZ="-177085.0" />
     <BookMark BookMarkName="Lazy Tree Spirit" PosX="-157767.0" PosY="1626.9100341796875" PosZ="-69131.796875" />
     <BookMark BookMarkName="Tough Tree Spirit" PosX="-159083.0" PosY="2080.679931640625" PosZ="-61515.5" />
     <BookMark BookMarkName="Small Treant" PosX="-381888.875" PosY="5978.08984375" PosZ="-187438.9375" />
@@ -32,4 +38,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Plants (Calpheon)_Lazy Tree Spirit_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Tough Tree Spirit_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Small Treant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Treant Spirit_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Scream Treant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Treant Stub_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Rooted Old Wood Treant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Twin-Headed Treant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Owl Treant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Root Treant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Old Tree Treant_Preview.webp" width="450"/> 
+<img src="./Plants (Calpheon)_Toxic Cave Plant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Treant Crystal Tree_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Lazy Tree Spirit_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Tough Tree Spirit_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Small Treant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Treant Spirit_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Scream Treant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Treant Stub_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Rooted Old Wood Treant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Twin-Headed Treant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Owl Treant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Root Treant_Preview.webp" width="450"/> <img src="./Plants (Calpheon)_Old Tree Treant_Preview.webp" width="450"/> 

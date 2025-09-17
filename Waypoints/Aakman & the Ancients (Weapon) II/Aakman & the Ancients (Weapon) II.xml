@@ -1,0 +1,25 @@
+<!--
+    Waypoints for: Aakman & the Ancients (Weapon) II
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Hystria Watch Tower" PosX="983068.0" PosY="-7547.009765625" PosZ="-17104.400390625" />
+    <BookMark BookMarkName="Hystria Guard Tower" PosX="984210.0" PosY="-7471.18994140625" PosZ="-15356.900390625" />
+    <BookMark BookMarkName="Tukar Demol" PosX="983201.0" PosY="-7369.75" PosZ="-20651.19921875" />
+    <BookMark BookMarkName="Tukar Burmol" PosX="982774.0" PosY="-7553.3701171875" PosZ="-17134.900390625" />
+    <BookMark BookMarkName="Elten" PosX="984462.0" PosY="-7412.830078125" PosZ="-15059.5" />
+    <BookMark BookMarkName="Tukar Balten" PosX="981690.0" PosY="-7531.72021484375" PosZ="-23228.400390625" />
+    <BookMark BookMarkName="Tanco" PosX="983996.0" PosY="-7420.259765625" PosZ="-24736.19921875" />
+    <BookMark BookMarkName="Vodkhan" PosX="983508.0" PosY="-7492.580078125" PosZ="-17589.900390625" />
+    <BookMark BookMarkName="Kalqueesh" PosX="980966.0" PosY="-7354.830078125" PosZ="-20276.30078125" />
+    <BookMark BookMarkName="Aakman Illusion Trap" PosX="663023.0" PosY="-5845.4599609375" PosZ="134826.0" />
+    <BookMark BookMarkName="Aakman Illusion Statue" PosX="661121.0" PosY="-5796.509765625" PosZ="130928.0" />
+    <BookMark BookMarkName="Tutuka" PosX="983495.0" PosY="-7532.580078125" PosZ="-16786.80078125" />
+    <BookMark BookMarkName="Aakman Guardian" PosX="664035.0" PosY="-5806.60009765625" PosZ="130235.0" />
+    <BookMark BookMarkName="Aakman Watcher" PosX="664304.0" PosY="-5797.14990234375" PosZ="131990.0" />
+    <BookMark BookMarkName="Aakman Punisher" PosX="664927.0" PosY="-3037.489990234375" PosZ="140714.0" />
+    <BookMark BookMarkName="Aakman Airbender" PosX="663819.0" PosY="-5802.18994140625" PosZ="130448.0" />
+    <BookMark BookMarkName="Aakman Flamen" PosX="663926.0" PosY="-5807.740234375" PosZ="129792.0" />
+    <BookMark BookMarkName="Aakman Elite Watcher" PosX="664306.0" PosY="-5660.56005859375" PosZ="132691.0" />
+    <BookMark BookMarkName="Aakman Elite Guardian" PosX="662040.0" PosY="-5891.509765625" PosZ="133772.0" />
+</WorldmapBookMark>

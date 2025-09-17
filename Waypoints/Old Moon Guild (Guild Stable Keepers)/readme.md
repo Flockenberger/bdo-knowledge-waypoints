@@ -1,4 +1,8 @@
 # Old Moon Guild (Guild Stable Keepers)
+
+This folder contains 16/16 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -22,6 +26,8 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Sohyun" PosX="-992264.0" PosY="-5396.43017578125" PosZ="1325490.0" />
     <BookMark BookMarkName="Yongdeok" PosX="-1132810.0" PosY="12973.099609375" PosZ="1272570.0" />
     <BookMark BookMarkName="Sanghyun" PosX="-1318140.0" PosY="-7545.97021484375" PosZ="1134880.0" />
+    <BookMark BookMarkName="Serazad" PosX="405371.0" PosY="690.7369995117188" PosZ="80181.6015625" />
+    <BookMark BookMarkName="Liam" PosX="407178.0" PosY="690.7369995117188" PosZ="78963.0" />
     <BookMark BookMarkName="Zishuka" PosX="592331.0" PosY="13675.5" PosZ="50400.1015625" />
     <BookMark BookMarkName="Freddie" PosX="592343.0" PosY="13553.0" PosZ="51463.69921875" />
     <BookMark BookMarkName="Chloe" PosX="1007750.0" PosY="10644.5" PosZ="189038.0" />
@@ -35,4 +41,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Old Moon Guild (Guild Stable Keepers)_Anya_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Sohyun_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Yongdeok_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Sanghyun_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Zishuka_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Freddie_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Chloe_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Ashley_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Amanda_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Scarlet_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Gunniss_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_James Coop_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Leonardo_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Yan_Preview.webp" width="450"/> 
+<img src="./Old Moon Guild (Guild Stable Keepers)_Anya_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Sohyun_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Yongdeok_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Sanghyun_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Serazad_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Liam_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Zishuka_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Freddie_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Chloe_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Ashley_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Amanda_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Scarlet_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Gunniss_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_James Coop_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Leonardo_Preview.webp" width="450"/> <img src="./Old Moon Guild (Guild Stable Keepers)_Yan_Preview.webp" width="450"/> 

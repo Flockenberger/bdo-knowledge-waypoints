@@ -1,0 +1,13 @@
+<!--
+    Waypoints for: Olun's Valley
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Indomitable Golem" PosX="-135310.0" PosY="16827.599609375" PosZ="-510907.0" />
+    <BookMark BookMarkName="Olun's Golem" PosX="-136524.0" PosY="16703.30078125" PosZ="-510508.0" />
+    <BookMark BookMarkName="Rock Golem" PosX="-137376.0" PosY="16468.5" PosZ="-506645.0" />
+    <BookMark BookMarkName="Boulder Golem" PosX="-136998.0" PosY="16694.5" PosZ="-511512.0" />
+    <BookMark BookMarkName="Olun's Power Tower" PosX="-131764.0" PosY="16644.19921875" PosZ="-504929.0" />
+    <BookMark BookMarkName="Olun's Statue" PosX="-150297.0" PosY="16076.5" PosZ="-496551.0" />
+    <BookMark BookMarkName="Olun's Heart" PosX="-138471.0" PosY="16847.80078125" PosZ="-524659.0" />
+</WorldmapBookMark>

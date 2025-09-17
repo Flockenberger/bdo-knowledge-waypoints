@@ -1,4 +1,8 @@
 # Warriors of Hwanghae Province
+
+This folder contains 2/2 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

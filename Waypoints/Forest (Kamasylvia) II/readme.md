@@ -1,0 +1,78 @@
+# Forest (Kamasylvia) II
+
+This folder contains 36/39 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Kamasylvia Herb Stoneback Crab
+```
+
+```
+Kamasylvia Small Stoneback Crab
+```
+
+```
+Kamasylvia Rough Stoneback Crab
+```
+
+
+Created by **flockenberger**
+
+## ⚠️ Disclaimer:
+The `WorldmapBookMark` XML block below may contain **more than 5 waypoints**.
+
+**Please note that Black Desert Online only supports importing up to 5 waypoints at a time**.
+
+Before importing, check and adjust which waypoints you want to use to avoid errors or missing data.
+
+The waypoints are generated based on positions found in the client files and may not correspond to actual knowledge entries obtainable through NPC interactions.
+They may instead point to locations such as mobs (monsters) or other entities that need to be defeated in order to gain knowledge.
+
+## Waypoints
+```xml
+<!--
+    Waypoints for: Forest (Kamasylvia) II
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Lapis Lazuli Crab" PosX="-320971.9375" PosY="10952.900390625" PosZ="-377130.875" />
+    <BookMark BookMarkName="Lapis Lazuli Bison" PosX="-348636.0" PosY="6639.7099609375" PosZ="-409120.0" />
+    <BookMark BookMarkName="Contaminated Ivy Guard" PosX="-293722.0" PosY="19880.30078125" PosZ="-345378.0" />
+    <BookMark BookMarkName="Contaminated Bush Keeper" PosX="-296994.0" PosY="20440.599609375" PosZ="-342388.0" />
+    <BookMark BookMarkName="Vera Grassland Crab" PosX="-311346.0" PosY="13606.7998046875" PosZ="-372234.0" />
+    <BookMark BookMarkName="Grassland Hedgehog" PosX="-283625.0" PosY="16815.900390625" PosZ="-356627.0" />
+    <BookMark BookMarkName="Rock Rhino" PosX="-347883.0" PosY="32718.69921875" PosZ="-317851.0" />
+    <BookMark BookMarkName="Kamasylvia Scrub Stoneback Crab" PosX="-281264.0" PosY="17288.099609375" PosZ="-351135.0" />
+    <BookMark BookMarkName="Bush Thicket Beetle" PosX="-213104.0" PosY="11727.2998046875" PosZ="-562579.0" />
+    <BookMark BookMarkName="Forest Bat" PosX="-300407.0" PosY="19990.599609375" PosZ="-337637.0" />
+    <BookMark BookMarkName="Feather Weasel" PosX="-341907.0" PosY="8024.93994140625" PosZ="-370429.0" />
+    <BookMark BookMarkName="Kamasylvia Mountain Sheep" PosX="-291190.0" PosY="25178.30078125" PosZ="-305693.0" />
+    <BookMark BookMarkName="Silver Fox" PosX="-367724.0" PosY="1534.56005859375" PosZ="-433233.0" />
+    <BookMark BookMarkName="Kamasylvia Female Horn Deer" PosX="-271896.0" PosY="13499.7001953125" PosZ="-278811.0" />
+    <BookMark BookMarkName="Kamasylvia Young Horn Deer" PosX="-245843.0" PosY="15306.2001953125" PosZ="-387908.0" />
+    <BookMark BookMarkName="Kamasylvia Horn Deer" PosX="-246228.0" PosY="14975.599609375" PosZ="-388902.0" />
+    <BookMark BookMarkName="Black Sand Small Mole" PosX="-303518.0" PosY="14034.0" PosZ="-371033.0" />
+    <BookMark BookMarkName="Kamasylvia Mountain Lamb" PosX="-292584.0" PosY="25667.5" PosZ="-304937.0" />
+    <BookMark BookMarkName="Kamasylvia Weasel" PosX="-281542.0" PosY="17210.30078125" PosZ="-351734.0" />
+    <BookMark BookMarkName="Lapis Lazuli Tree Spirit" PosX="-355740.0" PosY="7274.97021484375" PosZ="-408511.0" />
+    <BookMark BookMarkName="Lapis Lazuli Spider" PosX="-290777.0" PosY="20734.0" PosZ="-341155.0" />
+    <BookMark BookMarkName="Lapis Lazuli Shard Spider" PosX="-284116.0" PosY="19857.5" PosZ="-343413.0" />
+    <BookMark BookMarkName="Big Horn Salamander" PosX="-317001.0" PosY="19442.19921875" PosZ="-347294.0" />
+    <BookMark BookMarkName="Red Beak Devourer" PosX="-348082.0" PosY="7652.47021484375" PosZ="-402097.0" />
+    <BookMark BookMarkName="Lavender Kuku Bird" PosX="-349193.0" PosY="7578.4599609375" PosZ="-401645.0" />
+    <BookMark BookMarkName="Lapis Lazuli Scale Iguana" PosX="-293532.0" PosY="16598.69921875" PosZ="-351308.0" />
+    <BookMark BookMarkName="Water Buffalo" PosX="-341830.0" PosY="7863.2001953125" PosZ="-371539.0" />
+    <BookMark BookMarkName="Poisonous Thorn Tentacle" PosX="-353362.0" PosY="1228.0999755859375" PosZ="-418606.0" />
+    <BookMark BookMarkName="Bush Hermit Crab" PosX="-298589.0" PosY="18997.80078125" PosZ="-353713.0" />
+    <BookMark BookMarkName="Kamasylvia Small Lizard" PosX="-284549.0" PosY="20036.599609375" PosZ="-343215.0" />
+    <BookMark BookMarkName="Big Horned Wild Boar" PosX="-284230.0" PosY="18481.0" PosZ="-347383.0" />
+    <BookMark BookMarkName="Tiny Bee Swarm" PosX="-326991.0" PosY="10687.2001953125" PosZ="-372028.0" />
+    <BookMark BookMarkName="Silk Shade Flamingo" PosX="-290284.0" PosY="16270.2998046875" PosZ="-351159.0" />
+    <BookMark BookMarkName="Black Sand Mole" PosX="-303727.0" PosY="14120.5" PosZ="-371596.0" />
+    <BookMark BookMarkName="Bush Spider" PosX="-330618.0" PosY="9310.580078125" PosZ="-365241.0" />
+    <BookMark BookMarkName="Maroon Raccoon" PosX="-279943.0" PosY="17920.0" PosZ="-348046.0" />
+</WorldmapBookMark>
+```
+
+<img src="./Forest (Kamasylvia) II_Lapis Lazuli Crab_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Lapis Lazuli Bison_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Contaminated Ivy Guard_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Contaminated Bush Keeper_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Vera Grassland Crab_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Grassland Hedgehog_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Rock Rhino_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Kamasylvia Scrub Stoneback Crab_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Bush Thicket Beetle_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Forest Bat_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Feather Weasel_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Kamasylvia Mountain Sheep_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Silver Fox_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Kamasylvia Female Horn Deer_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Kamasylvia Young Horn Deer_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Kamasylvia Horn Deer_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Black Sand Small Mole_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Kamasylvia Mountain Lamb_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Kamasylvia Weasel_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Lapis Lazuli Tree Spirit_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Lapis Lazuli Spider_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Lapis Lazuli Shard Spider_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Big Horn Salamander_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Red Beak Devourer_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Lavender Kuku Bird_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Lapis Lazuli Scale Iguana_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Water Buffalo_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Poisonous Thorn Tentacle_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Bush Hermit Crab_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Kamasylvia Small Lizard_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Big Horned Wild Boar_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Tiny Bee Swarm_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Silk Shade Flamingo_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Black Sand Mole_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Bush Spider_Preview.webp" width="450"/> <img src="./Forest (Kamasylvia) II_Maroon Raccoon_Preview.webp" width="450"/> 

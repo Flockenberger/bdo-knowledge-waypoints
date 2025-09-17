@@ -1,4 +1,8 @@
 # Hexe Sanctuary
+
+This folder contains 9/9 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -26,7 +30,8 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Witch Tower" PosX="-236215.015625" PosY="4153.64013671875" PosZ="-257961.0" />
     <BookMark BookMarkName="Skeleton Witmirth" PosX="-223548.03125" PosY="5693.10009765625" PosZ="-271098.0" />
     <BookMark BookMarkName="Skeleton Lizard" PosX="-229522.03125" PosY="5900.56982421875" PosZ="-268715.0" />
+    <BookMark BookMarkName="Green Orc Skeleton Warrior" PosX="-191845.0" PosY="2351.1298828125" PosZ="-267186.0" />
 </WorldmapBookMark>
 ```
 
-<img src="./Hexe Sanctuary_Hexe Sanctuary Shamanic Tree_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Skeleton Wolf_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Skeleton Warrior_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Skeleton Archer_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Skeleton_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Witch Tower_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Skeleton Witmirth_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Skeleton Lizard_Preview.webp" width="450"/> 
+<img src="./Hexe Sanctuary_Hexe Sanctuary Shamanic Tree_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Skeleton Wolf_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Skeleton Warrior_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Skeleton Archer_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Skeleton_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Witch Tower_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Skeleton Witmirth_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Skeleton Lizard_Preview.webp" width="450"/> <img src="./Hexe Sanctuary_Green Orc Skeleton Warrior_Preview.webp" width="450"/> 

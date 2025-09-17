@@ -1,4 +1,8 @@
 # Giants
+
+This folder contains 10/10 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -19,6 +23,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
 -->
 <WorldmapBookMark>
     <BookMark BookMarkName="Cyclops Food Drying Stand" PosX="-337887.0" PosY="10306.599609375" PosZ="-255004.0" />
+    <BookMark BookMarkName="Treasure Chamber of One-Eyed Giant" PosX="-314954.0" PosY="9518.3095703125" PosZ="-244863.0" />
     <BookMark BookMarkName="Giant Sculpture" PosX="-139128.0" PosY="-150.0500030517578" PosZ="-199860.0" />
     <BookMark BookMarkName="Cyclops" PosX="-351552.0" PosY="12093.400390625" PosZ="-267187.0" />
     <BookMark BookMarkName="Giant Warrior" PosX="-149094.96875" PosY="2021.1300048828125" PosZ="-220295.03125" />
@@ -30,4 +35,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Giants_Cyclops Food Drying Stand_Preview.webp" width="450"/> <img src="./Giants_Giant Sculpture_Preview.webp" width="450"/> <img src="./Giants_Cyclops_Preview.webp" width="450"/> <img src="./Giants_Giant Warrior_Preview.webp" width="450"/> <img src="./Giants_Giant_Preview.webp" width="450"/> <img src="./Giants_Giant Combatant_Preview.webp" width="450"/> <img src="./Giants_Giant Brawler_Preview.webp" width="450"/> <img src="./Giants_Giant Fighter_Preview.webp" width="450"/> <img src="./Giants_Disguised Giant_Preview.webp" width="450"/> 
+<img src="./Giants_Cyclops Food Drying Stand_Preview.webp" width="450"/> <img src="./Giants_Treasure Chamber of One-Eyed Giant_Preview.webp" width="450"/> <img src="./Giants_Giant Sculpture_Preview.webp" width="450"/> <img src="./Giants_Cyclops_Preview.webp" width="450"/> <img src="./Giants_Giant Warrior_Preview.webp" width="450"/> <img src="./Giants_Giant_Preview.webp" width="450"/> <img src="./Giants_Giant Combatant_Preview.webp" width="450"/> <img src="./Giants_Giant Brawler_Preview.webp" width="450"/> <img src="./Giants_Giant Fighter_Preview.webp" width="450"/> <img src="./Giants_Disguised Giant_Preview.webp" width="450"/> 

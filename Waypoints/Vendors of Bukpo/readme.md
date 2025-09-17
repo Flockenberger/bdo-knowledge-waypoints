@@ -1,4 +1,8 @@
 # Vendors of Bukpo
+
+This folder contains 19/19 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

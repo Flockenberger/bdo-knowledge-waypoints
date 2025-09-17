@@ -1,4 +1,286 @@
 # Rare Fish
+
+This folder contains 4/73 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Charr
+```
+
+```
+Basking Shark
+```
+
+```
+Tiger Shark
+```
+
+```
+Thresher Shark
+```
+
+```
+Green Sturgeon
+```
+
+```
+Redbreasted Wrasse
+```
+
+```
+Goliath Tigerfish
+```
+
+```
+Redfin Anthias
+```
+
+```
+Opah
+```
+
+```
+Goldenstriped Soapfish
+```
+
+```
+Wrought Iron Butterflyfish
+```
+
+```
+Giant Talking Catfish
+```
+
+```
+Lungfish
+```
+
+```
+Axolotl
+```
+
+```
+Burbot
+```
+
+```
+Black Shiner
+```
+
+```
+Granges D'or
+```
+
+```
+Golden Siniperca
+```
+
+```
+Miho Spine Loach
+```
+
+```
+Spotted Barbel
+```
+
+```
+Goliath Grouper
+```
+
+```
+Blackfin Sea Perch
+```
+
+```
+Skate
+```
+
+```
+Greater Amberjack
+```
+
+```
+Bahaba
+```
+
+```
+Striped Goliath Grouper
+```
+
+```
+Striped Bonito
+```
+
+```
+Giant Squid
+```
+
+```
+Luvar
+```
+
+```
+Mackerel Tuna
+```
+
+```
+Blue Grouper
+```
+
+```
+Giant Octopus
+```
+
+```
+Spotted Sea Bass
+```
+
+```
+Eyespot Puffer
+```
+
+```
+Killer Whale
+```
+
+```
+Humpback Whale
+```
+
+```
+Minke Whale
+```
+
+```
+Saw Shark
+```
+
+```
+Whale Shark
+```
+
+```
+Requiem Shark
+```
+
+```
+Hammerhead
+```
+
+```
+Mako Shark
+```
+
+```
+Great White Shark
+```
+
+```
+Tilefish
+```
+
+```
+Moray
+```
+
+```
+Black Porgy
+```
+
+```
+Coelacanth
+```
+
+```
+Sperm Whale
+```
+
+```
+Giant Grouper
+```
+
+```
+Albacore
+```
+
+```
+Yellowfin Tuna
+```
+
+```
+Bigeye Tuna
+```
+
+```
+Bluefin Tuna
+```
+
+```
+Bottlenose Dolphin
+```
+
+```
+Beluga Whale
+```
+
+```
+Narwhal
+```
+
+```
+Hammer Whale
+```
+
+```
+Pacu
+```
+
+```
+Leather Carp
+```
+
+```
+Grouper
+```
+
+```
+Smokey Chromis
+```
+
+```
+Porcupine Fish
+```
+
+```
+Sunfish
+```
+
+```
+Cuvier
+```
+
+```
+Snakehead
+```
+
+```
+Mandarin Fish
+```
+
+```
+Piranha
+```
+
+```
+Sturgeon
+```
+
+```
+Tuna
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

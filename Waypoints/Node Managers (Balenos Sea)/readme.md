@@ -1,4 +1,8 @@
 # Node Managers (Balenos Sea)
+
+This folder contains 28/28 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

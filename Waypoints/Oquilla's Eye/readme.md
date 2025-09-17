@@ -1,4 +1,8 @@
 # Oquilla's Eye
+
+This folder contains 10/10 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -24,10 +28,11 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Herrad Romsen" PosX="-101711.0" PosY="-7374.2998046875" PosZ="631432.0" />
     <BookMark BookMarkName="Carpuro" PosX="-104957.0" PosY="-5600.169921875" PosZ="624816.0" />
     <BookMark BookMarkName="Black Turtle Chief, Goblin" PosX="-86644.296875" PosY="-6569.2900390625" PosZ="630250.0" />
+    <BookMark BookMarkName="Otter Merchants Union, Vellonia" PosX="-100001.0" PosY="-7782.5498046875" PosZ="614264.0" />
     <BookMark BookMarkName="Curio" PosX="-100001.0" PosY="-7782.5498046875" PosZ="614264.0" />
     <BookMark BookMarkName="Bave Ricksa" PosX="-86699.1328125" PosY="-6487.66015625" PosZ="630446.875" />
     <BookMark BookMarkName="Sherah Riki" PosX="-104379.96875" PosY="-7970.47021484375" PosZ="630458.875" />
 </WorldmapBookMark>
 ```
 
-<img src="./Oquilla's Eye_Kario_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Elro_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Ravikel_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Herrad Romsen_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Carpuro_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Black Turtle Chief, Goblin_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Curio_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Bave Ricksa_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Sherah Riki_Preview.webp" width="450"/> 
+<img src="./Oquilla's Eye_Kario_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Elro_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Ravikel_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Herrad Romsen_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Carpuro_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Black Turtle Chief, Goblin_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Otter Merchants Union, Vellonia_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Curio_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Bave Ricksa_Preview.webp" width="450"/> <img src="./Oquilla's Eye_Sherah Riki_Preview.webp" width="450"/> 

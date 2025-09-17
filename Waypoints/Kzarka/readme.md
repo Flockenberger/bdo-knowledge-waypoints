@@ -1,4 +1,8 @@
 # Kzarka
+
+This folder contains 7/7 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,12 +22,14 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Altar of Blood" PosX="474733.0" PosY="4607.169921875" PosZ="25382.80078125" />
     <BookMark BookMarkName="Serendia Shrine Victim" PosX="40375.109375" PosY="1439.9100341796875" PosZ="-164837.0" />
     <BookMark BookMarkName="Serendia Shrine Warrior" PosX="37819.2890625" PosY="1610.8900146484375" PosZ="-161747.96875" />
     <BookMark BookMarkName="Serendia Shrine Priestess" PosX="39525.890625" PosY="1439.9100341796875" PosZ="-164370.0" />
+    <BookMark BookMarkName="Kzarka, the Lord of Corruption" PosX="52582.30078125" PosY="649.2860107421875" PosZ="-190687.0" />
     <BookMark BookMarkName="Serendia Shrine Priest" PosX="50741.33984375" PosY="715.3400268554688" PosZ="-191551.96875" />
     <BookMark BookMarkName="Serendia Shrine Wizard" PosX="37750.28125" PosY="1463.8399658203125" PosZ="-162969.96875" />
 </WorldmapBookMark>
 ```
 
-<img src="./Kzarka_Serendia Shrine Victim_Preview.webp" width="450"/> <img src="./Kzarka_Serendia Shrine Warrior_Preview.webp" width="450"/> <img src="./Kzarka_Serendia Shrine Priestess_Preview.webp" width="450"/> <img src="./Kzarka_Serendia Shrine Priest_Preview.webp" width="450"/> <img src="./Kzarka_Serendia Shrine Wizard_Preview.webp" width="450"/> 
+<img src="./Kzarka_Altar of Blood_Preview.webp" width="450"/> <img src="./Kzarka_Serendia Shrine Victim_Preview.webp" width="450"/> <img src="./Kzarka_Serendia Shrine Warrior_Preview.webp" width="450"/> <img src="./Kzarka_Serendia Shrine Priestess_Preview.webp" width="450"/> <img src="./Kzarka_Kzarka, the Lord of Corruption_Preview.webp" width="450"/> <img src="./Kzarka_Serendia Shrine Priest_Preview.webp" width="450"/> <img src="./Kzarka_Serendia Shrine Wizard_Preview.webp" width="450"/> 

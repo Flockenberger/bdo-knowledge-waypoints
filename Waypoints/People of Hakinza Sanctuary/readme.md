@@ -1,4 +1,14 @@
 # People of Hakinza Sanctuary
+
+This folder contains 17/18 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Wariyana
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

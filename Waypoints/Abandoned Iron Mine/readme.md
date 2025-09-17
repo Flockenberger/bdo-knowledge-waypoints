@@ -1,4 +1,8 @@
 # Abandoned Iron Mine
+
+This folder contains 21/21 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,6 +22,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Tacky Wood Doll" PosX="328399.0" PosY="-2388.179931640625" PosZ="-159111.0" />
     <BookMark BookMarkName="Crude Watchtower" PosX="300737.0" PosY="-3219.159912109375" PosZ="-131771.0" />
     <BookMark BookMarkName="Lightning Trumpeter" PosX="327842.9375" PosY="-12981.2001953125" PosZ="-124426.0" />
     <BookMark BookMarkName="Thunder Drummer" PosX="332123.0" PosY="-12215.5" PosZ="-123012.9765625" />
@@ -41,4 +46,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Abandoned Iron Mine_Crude Watchtower_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Lightning Trumpeter_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Thunder Drummer_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Equipment Holder_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Imp Work Supervisor_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Khuruto Chaser_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Khuruto Guard_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Khuruto Sheriff_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Khuruto Executor_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Saunil Sheriff_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Tacky Stone Wagon_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Tacky Surveillance Dugout_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Tacky Fire Cannon_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Troll Work Supervisor_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Rhutum Chief Shaman_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Saunil Guard_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Red Orc Sentinel_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Red Orc Guard_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Rhutum Sheriff_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Rhutum Guard_Preview.webp" width="450"/> 
+<img src="./Abandoned Iron Mine_Tacky Wood Doll_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Crude Watchtower_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Lightning Trumpeter_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Thunder Drummer_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Equipment Holder_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Imp Work Supervisor_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Khuruto Chaser_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Khuruto Guard_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Khuruto Sheriff_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Khuruto Executor_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Saunil Sheriff_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Tacky Stone Wagon_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Tacky Surveillance Dugout_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Tacky Fire Cannon_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Troll Work Supervisor_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Rhutum Chief Shaman_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Saunil Guard_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Red Orc Sentinel_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Red Orc Guard_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Rhutum Sheriff_Preview.webp" width="450"/> <img src="./Abandoned Iron Mine_Rhutum Guard_Preview.webp" width="450"/> 

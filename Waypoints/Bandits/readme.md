@@ -1,4 +1,8 @@
 # Bandits
+
+This folder contains 18/18 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

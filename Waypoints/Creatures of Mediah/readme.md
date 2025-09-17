@@ -1,4 +1,8 @@
 # Creatures of Mediah
+
+This folder contains 28/28 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,9 +22,16 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Mediah Stoneback Crab Egg" PosX="246008.0" PosY="-6994.919921875" PosZ="51320.5" />
     <BookMark BookMarkName="Stone Hole Spider Den" PosX="201242.0" PosY="-1090.719970703125" PosZ="100934.0" />
     <BookMark BookMarkName="Stone Hole Spider House" PosX="214602.0" PosY="-2600.429931640625" PosZ="84789.703125" />
+    <BookMark BookMarkName="Mediah Mountain Lamb" PosX="140662.0" PosY="2390.8798828125" PosZ="101937.0" />
+    <BookMark BookMarkName="Stonetail Bison" PosX="214796.0" PosY="-2474.550048828125" PosZ="-73083.6015625" />
     <BookMark BookMarkName="Baby Stone Rhino" PosX="239022.0" PosY="-1915.0699462890625" PosZ="-25435.69921875" />
+    <BookMark BookMarkName="Beetle Stoneback Crab" PosX="241754.0" PosY="-5507.83984375" PosZ="49135.5" />
+    <BookMark BookMarkName="High Head Stoneback Crab" PosX="139439.0" PosY="-2356.169921875" PosZ="116091.0" />
+    <BookMark BookMarkName="Mediah Mountain Sheep" PosX="140331.0" PosY="2340.590087890625" PosZ="102122.0" />
+    <BookMark BookMarkName="Elte" PosX="175389.0" PosY="-8257.400390625" PosZ="150665.0" />
     <BookMark BookMarkName="Armadillo" PosX="226652.0" PosY="-4374.85986328125" PosZ="-18833.69921875" />
     <BookMark BookMarkName="Wasteland Iguana" PosX="301190.0" PosY="-2921.830078125" PosZ="-20069.19921875" />
     <BookMark BookMarkName="Desert Crab" PosX="232401.0" PosY="-3603.14990234375" PosZ="34502.8984375" />
@@ -42,4 +53,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Creatures of Mediah_Stone Hole Spider Den_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Hole Spider House_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Baby Stone Rhino_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Armadillo_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Wasteland Iguana_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Desert Crab_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Blue Desert Crab_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Rock Desert Crab_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Vera Desert Crab_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Small Stone Head Bison_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Head Bison_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Wasteland Cheetah Dragon_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Grass Hedgehog_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Rock Spider_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Rhino_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Rock Head Bison_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Mature Rock Spirit_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Hole Worm_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Crab_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Tiny Stone Hole Spider_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Hole Spider_Preview.webp" width="450"/> 
+<img src="./Creatures of Mediah_Mediah Stoneback Crab Egg_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Hole Spider Den_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Hole Spider House_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Mediah Mountain Lamb_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stonetail Bison_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Baby Stone Rhino_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Beetle Stoneback Crab_Preview.webp" width="450"/> <img src="./Creatures of Mediah_High Head Stoneback Crab_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Mediah Mountain Sheep_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Elte_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Armadillo_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Wasteland Iguana_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Desert Crab_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Blue Desert Crab_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Rock Desert Crab_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Vera Desert Crab_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Small Stone Head Bison_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Head Bison_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Wasteland Cheetah Dragon_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Grass Hedgehog_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Rock Spider_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Rhino_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Rock Head Bison_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Mature Rock Spirit_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Hole Worm_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Crab_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Tiny Stone Hole Spider_Preview.webp" width="450"/> <img src="./Creatures of Mediah_Stone Hole Spider_Preview.webp" width="450"/> 

@@ -1,4 +1,8 @@
 # Residents of Nopsae Byeot County
+
+This folder contains 17/17 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

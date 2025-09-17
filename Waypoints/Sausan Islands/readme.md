@@ -1,4 +1,8 @@
 # Sausan Islands
+
+This folder contains 6/6 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -23,7 +27,8 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Beiruwa Island" PosX="84729.3984375" PosY="-6334.89990234375" PosZ="165217.0" />
     <BookMark BookMarkName="Delinghart Island  " PosX="205951.0" PosY="-8150.0" PosZ="200129.0" />
     <BookMark BookMarkName="Pilava Island" PosX="255801.0" PosY="-6358.02001953125" PosZ="191862.0" />
+    <BookMark BookMarkName="Red Battlefield" PosX="-11444.2998046875" PosY="13523.0" PosZ="-327410.0" />
 </WorldmapBookMark>
 ```
 
-<img src="./Sausan Islands_Ostra Island_Preview.webp" width="450"/> <img src="./Sausan Islands_Taramura Island_Preview.webp" width="450"/> <img src="./Sausan Islands_Beiruwa Island_Preview.webp" width="450"/> <img src="./Sausan Islands_Delinghart Island  _Preview.webp" width="450"/> <img src="./Sausan Islands_Pilava Island_Preview.webp" width="450"/> 
+<img src="./Sausan Islands_Ostra Island_Preview.webp" width="450"/> <img src="./Sausan Islands_Taramura Island_Preview.webp" width="450"/> <img src="./Sausan Islands_Beiruwa Island_Preview.webp" width="450"/> <img src="./Sausan Islands_Delinghart Island  _Preview.webp" width="450"/> <img src="./Sausan Islands_Pilava Island_Preview.webp" width="450"/> <img src="./Sausan Islands_Red Battlefield_Preview.webp" width="450"/> 

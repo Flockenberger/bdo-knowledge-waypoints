@@ -1,4 +1,8 @@
 # Barterers
+
+This folder contains 69/69 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

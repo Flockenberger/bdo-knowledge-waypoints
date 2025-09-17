@@ -1,4 +1,8 @@
 # Those Who Left Nampo
+
+This folder contains 13/13 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

@@ -4,5 +4,10 @@
 -->
 <WorldmapBookMark>
     <BookMark BookMarkName="Desert Fogan Seer" PosX="966987.125" PosY="15885.900390625" PosZ="-153558.96875" />
+    <BookMark BookMarkName="Desert Fogan Sentry" PosX="921067.0" PosY="7793.0400390625" PosZ="-122930.0" />
     <BookMark BookMarkName="Desert Fogan Fighter" PosX="939803.0" PosY="12142.0" PosZ="-145774.953125" />
+    <BookMark BookMarkName="Desert Fogan Hoppity" PosX="921255.0" PosY="7797.35986328125" PosZ="-122795.0" />
+    <BookMark BookMarkName="Desert Fogan Food Depot" PosX="921467.0" PosY="7779.35986328125" PosZ="-123064.0" />
+    <BookMark BookMarkName="Desert Fogan Statue" PosX="913952.0" PosY="9950.3896484375" PosZ="-136676.0" />
+    <BookMark BookMarkName="Desert Fogan Egg" PosX="919709.0" PosY="7778.89990234375" PosZ="-122448.0" />
 </WorldmapBookMark>

@@ -1,4 +1,8 @@
 # Audraism & the Thornwood Watch
+
+This folder contains 14/14 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

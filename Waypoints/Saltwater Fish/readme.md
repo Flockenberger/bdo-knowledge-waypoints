@@ -1,4 +1,194 @@
 # Saltwater Fish
+
+This folder contains 19/65 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Red Seabream
+```
+
+```
+Blacktip Chromis
+```
+
+```
+Lionfish
+```
+
+```
+Dark-banded Rockfish
+```
+
+```
+Mitre Squid
+```
+
+```
+Boxfish
+```
+
+```
+Pollack
+```
+
+```
+Ransonnet's Surfperch
+```
+
+```
+Neon Damselfish
+```
+
+```
+Balenos Mullet
+```
+
+```
+Stippled Gunnel
+```
+
+```
+Yellowfin Sole
+```
+
+```
+Dusky Flathead
+```
+
+```
+Brassy Chub
+```
+
+```
+Devil Stinger
+```
+
+```
+Lavascale Stargazer
+```
+
+```
+Sandeel
+```
+
+```
+Dollarfish
+```
+
+```
+Horn Fish
+```
+
+```
+Mackerel Pike
+```
+
+```
+Cuttlefish
+```
+
+```
+Fourfinger Threadfin
+```
+
+```
+Bigeye
+```
+
+```
+Rosefish
+```
+
+```
+Sandfish
+```
+
+```
+Gurnard
+```
+
+```
+Pintado
+```
+
+```
+Tongue Sole
+```
+
+```
+Blue Tang
+```
+
+```
+Clownfish
+```
+
+```
+Croaker
+```
+
+```
+Blackfin Sweeper
+```
+
+```
+Surfperch
+```
+
+```
+Bluefish
+```
+
+```
+Gunnel
+```
+
+```
+Silver-Stripe Round Herring
+```
+
+```
+Round Herring
+```
+
+```
+Sardine
+```
+
+```
+Trout
+```
+
+```
+Shellfish
+```
+
+```
+Jellyfish
+```
+
+```
+Mullet
+```
+
+```
+Seahorse
+```
+
+```
+Ray
+```
+
+```
+Skipjack
+```
+
+```
+Flying Fish
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

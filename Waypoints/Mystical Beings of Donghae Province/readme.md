@@ -1,4 +1,8 @@
 # Mystical Beings of Donghae Province
+
+This folder contains 10/10 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

@@ -3,6 +3,13 @@
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Lava Searcher" PosX="1044570.0" PosY="31641.80078125" PosZ="479687.0" />
     <BookMark BookMarkName="Lava Tukar" PosX="1082800.0" PosY="23885.80078125" PosZ="440304.03125" />
+    <BookMark BookMarkName="Lava Fafalun" PosX="1046810.0" PosY="31580.69921875" PosZ="480653.0" />
+    <BookMark BookMarkName="Lava Devourer" PosX="1048440.0" PosY="31616.400390625" PosZ="480282.0" />
+    <BookMark BookMarkName="Lava Sulfur Bundle" PosX="1060820.0" PosY="26755.900390625" PosZ="456461.0" />
+    <BookMark BookMarkName="Lava Hydraulic Nozzle" PosX="1064580.0" PosY="26849.19921875" PosZ="452054.0" />
+    <BookMark BookMarkName="Lava Phlogiston Condenser" PosX="1060720.0" PosY="26512.599609375" PosZ="447704.0" />
     <BookMark BookMarkName="Lava Taolun" PosX="1083230.0" PosY="23419.099609375" PosZ="420488.125" />
+    <BookMark BookMarkName="Lava Faolun" PosX="1061150.0" PosY="26548.900390625" PosZ="447543.0" />
 </WorldmapBookMark>

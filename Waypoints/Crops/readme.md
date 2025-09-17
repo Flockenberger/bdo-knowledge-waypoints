@@ -1,4 +1,110 @@
 # Crops
+
+This folder contains 29/54 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Goosefoot
+```
+
+```
+Perilla
+```
+
+```
+Rice Stalk
+```
+
+```
+Persimmon
+```
+
+```
+Wild Berry
+```
+
+```
+Perilla
+```
+
+```
+Radish
+```
+
+```
+Napa Cabbage
+```
+
+```
+Rice
+```
+
+```
+Silver Apricot
+```
+
+```
+Jujube
+```
+
+```
+Date Palm
+```
+
+```
+Milk
+```
+
+```
+Egg
+```
+
+```
+Carrot Seed
+```
+
+```
+Olive
+```
+
+```
+Sunflower
+```
+
+```
+Grape
+```
+
+```
+Pumpkin
+```
+
+```
+Carrot
+```
+
+```
+Hot Pepper
+```
+
+```
+Strawberry
+```
+
+```
+Onion
+```
+
+```
+Garlic
+```
+
+```
+Pepper
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,6 +124,24 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Audria" PosX="-165496.0" PosY="9460.2197265625" PosZ="-520583.0" />
+    <BookMark BookMarkName="Blue Flower" PosX="-151740.0" PosY="25100.80078125" PosZ="-601571.0" />
+    <BookMark BookMarkName="Violet Flower" PosX="-216332.0" PosY="8314.1796875" PosZ="-586593.0" />
+    <BookMark BookMarkName="Sky Blue Flower" PosX="-154695.0" PosY="24726.30078125" PosZ="-601581.0" />
+    <BookMark BookMarkName="Yellow Flower" PosX="-152955.0" PosY="23981.599609375" PosZ="-608677.0" />
+    <BookMark BookMarkName="Purple Pink Flower" PosX="-437824.0" PosY="-1643.3399658203125" PosZ="-550700.0" />
+    <BookMark BookMarkName="Vedelona" PosX="-157560.0" PosY="12530.900390625" PosZ="-509962.0" />
+    <BookMark BookMarkName="Mimosa Stalk" PosX="-139560.0" PosY="16537.900390625" PosZ="-481958.0" />
+    <BookMark BookMarkName="Hazel Tree Fruit" PosX="-230120.0" PosY="28767.900390625" PosZ="-346170.0" />
+    <BookMark BookMarkName="Saffron" PosX="-472460.0" PosY="41052.80078125" PosZ="-260077.0" />
+    <BookMark BookMarkName="Teff" PosX="-10272.7998046875" PosY="18496.0" PosZ="-195602.0" />
+    <BookMark BookMarkName="Freekeh" PosX="985208.0" PosY="10280.599609375" PosZ="179188.0" />
+    <BookMark BookMarkName="Nutmeg" PosX="564854.0" PosY="6653.64013671875" PosZ="280717.0" />
+    <BookMark BookMarkName="Star Anise" PosX="566085.0" PosY="6483.740234375" PosZ="278452.0" />
+    <BookMark BookMarkName="FIg" PosX="-556782.0" PosY="-6057.0400390625" PosZ="-478500.0" />
+    <BookMark BookMarkName="Pistachio" PosX="994095.0" PosY="-2753.300048828125" PosZ="326475.0" />
+    <BookMark BookMarkName="Cinnamon" PosX="252702.0" PosY="-2281.39990234375" PosZ="-76128.796875" />
+    <BookMark BookMarkName="Aloe" PosX="-124972.0" PosY="-2311.68994140625" PosZ="155544.0" />
     <BookMark BookMarkName="Tulip" PosX="-217144.0" PosY="-2255.35009765625" PosZ="-28089.5" />
     <BookMark BookMarkName="Blue Rose" PosX="-204303.0" PosY="-2297.159912109375" PosZ="-27170.80078125" />
     <BookMark BookMarkName="Rose" PosX="-217468.0" PosY="-3027.989990234375" PosZ="-45382.1015625" />
@@ -32,4 +156,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Crops_Tulip_Preview.webp" width="450"/> <img src="./Crops_Blue Rose_Preview.webp" width="450"/> <img src="./Crops_Rose_Preview.webp" width="450"/> <img src="./Crops_Cabbage_Preview.webp" width="450"/> <img src="./Crops_Paprika_Preview.webp" width="450"/> <img src="./Crops_Tomato_Preview.webp" width="450"/> <img src="./Crops_Barley_Preview.webp" width="450"/> <img src="./Crops_Wheat_Preview.webp" width="450"/> <img src="./Crops_Sweet Potato_Preview.webp" width="450"/> <img src="./Crops_Corn_Preview.webp" width="450"/> <img src="./Crops_Potato_Preview.webp" width="450"/> 
+<img src="./Crops_Audria_Preview.webp" width="450"/> <img src="./Crops_Blue Flower_Preview.webp" width="450"/> <img src="./Crops_Violet Flower_Preview.webp" width="450"/> <img src="./Crops_Sky Blue Flower_Preview.webp" width="450"/> <img src="./Crops_Yellow Flower_Preview.webp" width="450"/> <img src="./Crops_Purple Pink Flower_Preview.webp" width="450"/> <img src="./Crops_Vedelona_Preview.webp" width="450"/> <img src="./Crops_Mimosa Stalk_Preview.webp" width="450"/> <img src="./Crops_Hazel Tree Fruit_Preview.webp" width="450"/> <img src="./Crops_Saffron_Preview.webp" width="450"/> <img src="./Crops_Teff_Preview.webp" width="450"/> <img src="./Crops_Freekeh_Preview.webp" width="450"/> <img src="./Crops_Nutmeg_Preview.webp" width="450"/> <img src="./Crops_Star Anise_Preview.webp" width="450"/> <img src="./Crops_FIg_Preview.webp" width="450"/> <img src="./Crops_Pistachio_Preview.webp" width="450"/> <img src="./Crops_Cinnamon_Preview.webp" width="450"/> <img src="./Crops_Aloe_Preview.webp" width="450"/> <img src="./Crops_Tulip_Preview.webp" width="450"/> <img src="./Crops_Blue Rose_Preview.webp" width="450"/> <img src="./Crops_Rose_Preview.webp" width="450"/> <img src="./Crops_Cabbage_Preview.webp" width="450"/> <img src="./Crops_Paprika_Preview.webp" width="450"/> <img src="./Crops_Tomato_Preview.webp" width="450"/> <img src="./Crops_Barley_Preview.webp" width="450"/> <img src="./Crops_Wheat_Preview.webp" width="450"/> <img src="./Crops_Sweet Potato_Preview.webp" width="450"/> <img src="./Crops_Corn_Preview.webp" width="450"/> <img src="./Crops_Potato_Preview.webp" width="450"/> 

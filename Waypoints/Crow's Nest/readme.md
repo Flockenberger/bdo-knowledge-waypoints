@@ -1,4 +1,8 @@
 # Crow's Nest
+
+This folder contains 20/20 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -27,13 +31,18 @@ They may instead point to locations such as mobs (monsters) or other entities th
     <BookMark BookMarkName="Akati" PosX="254409.984375" PosY="-6039.43017578125" PosZ="707176.875" />
     <BookMark BookMarkName="Randy" PosX="264285.9375" PosY="-6908.35009765625" PosZ="612023.875" />
     <BookMark BookMarkName="Chorpy" PosX="264292.0" PosY="-6908.330078125" PosZ="611729.0" />
+    <BookMark BookMarkName="The Seven Angels of the Nest" PosX="249183.0" PosY="-6378.9599609375" PosZ="700432.0" />
+    <BookMark BookMarkName="Beakless Crow" PosX="234930.0" PosY="-5621.18017578125" PosZ="700679.0" />
     <BookMark BookMarkName="Anax" PosX="237262.0" PosY="-7993.89013671875" PosZ="695483.0" />
+    <BookMark BookMarkName="Hermit of the Twelve Steps" PosX="252069.0" PosY="-6155.830078125" PosZ="706079.0" />
+    <BookMark BookMarkName="Kong, Poong, and Garvish" PosX="254161.0" PosY="-6039.43017578125" PosZ="707335.0" />
     <BookMark BookMarkName="Kansha" PosX="263296.0" PosY="-5439.89990234375" PosZ="713962.0" />
     <BookMark BookMarkName="Toro" PosX="249872.0" PosY="-6345.93017578125" PosZ="699714.0" />
     <BookMark BookMarkName="Chiro" PosX="249911.0" PosY="-6346.02001953125" PosZ="699843.0" />
+    <BookMark BookMarkName="Tuvala" PosX="262552.0" PosY="-5382.77001953125" PosZ="713561.0" />
     <BookMark BookMarkName="Lavala" PosX="254161.0" PosY="-6039.43017578125" PosZ="707335.0" />
     <BookMark BookMarkName="Patrigio" PosX="262552.0" PosY="-5382.77001953125" PosZ="713561.0" />
 </WorldmapBookMark>
 ```
 
-<img src="./Crow's Nest_Livenia_Preview.webp" width="450"/> <img src="./Crow's Nest_Ravinia_Preview.webp" width="450"/> <img src="./Crow's Nest_Rovinia_Preview.webp" width="450"/> <img src="./Crow's Nest_Ruvinia_Preview.webp" width="450"/> <img src="./Crow's Nest_Revinia_Preview.webp" width="450"/> <img src="./Crow's Nest_Rebinia_Preview.webp" width="450"/> <img src="./Crow's Nest_Akati_Preview.webp" width="450"/> <img src="./Crow's Nest_Randy_Preview.webp" width="450"/> <img src="./Crow's Nest_Chorpy_Preview.webp" width="450"/> <img src="./Crow's Nest_Anax_Preview.webp" width="450"/> <img src="./Crow's Nest_Kansha_Preview.webp" width="450"/> <img src="./Crow's Nest_Toro_Preview.webp" width="450"/> <img src="./Crow's Nest_Chiro_Preview.webp" width="450"/> <img src="./Crow's Nest_Lavala_Preview.webp" width="450"/> <img src="./Crow's Nest_Patrigio_Preview.webp" width="450"/> 
+<img src="./Crow's Nest_Livenia_Preview.webp" width="450"/> <img src="./Crow's Nest_Ravinia_Preview.webp" width="450"/> <img src="./Crow's Nest_Rovinia_Preview.webp" width="450"/> <img src="./Crow's Nest_Ruvinia_Preview.webp" width="450"/> <img src="./Crow's Nest_Revinia_Preview.webp" width="450"/> <img src="./Crow's Nest_Rebinia_Preview.webp" width="450"/> <img src="./Crow's Nest_Akati_Preview.webp" width="450"/> <img src="./Crow's Nest_Randy_Preview.webp" width="450"/> <img src="./Crow's Nest_Chorpy_Preview.webp" width="450"/> <img src="./Crow's Nest_The Seven Angels of the Nest_Preview.webp" width="450"/> <img src="./Crow's Nest_Beakless Crow_Preview.webp" width="450"/> <img src="./Crow's Nest_Anax_Preview.webp" width="450"/> <img src="./Crow's Nest_Hermit of the Twelve Steps_Preview.webp" width="450"/> <img src="./Crow's Nest_Kong, Poong, and Garvish_Preview.webp" width="450"/> <img src="./Crow's Nest_Kansha_Preview.webp" width="450"/> <img src="./Crow's Nest_Toro_Preview.webp" width="450"/> <img src="./Crow's Nest_Chiro_Preview.webp" width="450"/> <img src="./Crow's Nest_Tuvala_Preview.webp" width="450"/> <img src="./Crow's Nest_Lavala_Preview.webp" width="450"/> <img src="./Crow's Nest_Patrigio_Preview.webp" width="450"/> 

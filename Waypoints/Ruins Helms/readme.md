@@ -1,4 +1,8 @@
 # Ruins Helms
+
+This folder contains 22/22 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,8 +22,13 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Helm Raid Captain" PosX="101720.0" PosY="1027.1400146484375" PosZ="44613.69921875" />
+    <BookMark BookMarkName="Helm Crusher" PosX="98040.703125" PosY="-1413.489990234375" PosZ="51661.6015625" />
+    <BookMark BookMarkName="Helm Destroyer" PosX="97863.3984375" PosY="-2221.0" PosZ="57366.3984375" />
+    <BookMark BookMarkName="Helm Devourer" PosX="101978.0" PosY="1065.7099609375" PosZ="44866.69921875" />
     <BookMark BookMarkName="Helm Tribe Mineral Wagon" PosX="146879.0" PosY="2183.6201171875" PosZ="56343.19921875" />
     <BookMark BookMarkName="Golem Summoning Stone" PosX="161898.0" PosY="233.0800018310547" PosZ="-12872.7001953125" />
+    <BookMark BookMarkName="Helm Golem" PosX="128161.0" PosY="2974.830078125" PosZ="50124.0" />
     <BookMark BookMarkName="Helm Iron Shield" PosX="131206.0" PosY="5800.31982421875" PosZ="51047.0" />
     <BookMark BookMarkName="Stone Golem" PosX="170420.0" PosY="-898.3300170898438" PosZ="-29698.400390625" />
     <BookMark BookMarkName="Gravestone Golem" PosX="174568.0" PosY="-1836.6700439453125" PosZ="-41453.0" />
@@ -38,4 +47,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Ruins Helms_Helm Tribe Mineral Wagon_Preview.webp" width="450"/> <img src="./Ruins Helms_Golem Summoning Stone_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Iron Shield_Preview.webp" width="450"/> <img src="./Ruins Helms_Stone Golem_Preview.webp" width="450"/> <img src="./Ruins Helms_Gravestone Golem_Preview.webp" width="450"/> <img src="./Ruins Helms_Wilderness Golem_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Tribe Forge_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Tribe Mine_Preview.webp" width="450"/> <img src="./Ruins Helms_Defense Trench_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Angry Hammer_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Small Mace_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Big Mace_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Hunter_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Hammer_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Miner_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Two-Axe Warrior_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Big Axe_Preview.webp" width="450"/> 
+<img src="./Ruins Helms_Helm Raid Captain_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Crusher_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Destroyer_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Devourer_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Tribe Mineral Wagon_Preview.webp" width="450"/> <img src="./Ruins Helms_Golem Summoning Stone_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Golem_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Iron Shield_Preview.webp" width="450"/> <img src="./Ruins Helms_Stone Golem_Preview.webp" width="450"/> <img src="./Ruins Helms_Gravestone Golem_Preview.webp" width="450"/> <img src="./Ruins Helms_Wilderness Golem_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Tribe Forge_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Tribe Mine_Preview.webp" width="450"/> <img src="./Ruins Helms_Defense Trench_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Angry Hammer_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Small Mace_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Big Mace_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Hunter_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Hammer_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Miner_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Two-Axe Warrior_Preview.webp" width="450"/> <img src="./Ruins Helms_Helm Big Axe_Preview.webp" width="450"/> 

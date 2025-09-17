@@ -1,0 +1,11 @@
+<!--
+    Waypoints for: Munitions of Valencia
+    Created by: flockenberger
+-->
+<WorldmapBookMark>
+    <BookMark BookMarkName="Ibellab Gunpowder" PosX="1009070.0" PosY="10592.400390625" PosZ="187376.0" />
+    <BookMark BookMarkName="Portable Cannon" PosX="1009070.0" PosY="10592.400390625" PosZ="187376.0" />
+    <BookMark BookMarkName="Cadry Iron Armor" PosX="1009070.0" PosY="10592.400390625" PosZ="187376.0" />
+    <BookMark BookMarkName="Valencian Crescent Sword" PosX="1042910.0" PosY="12782.0" PosZ="223856.0" />
+    <BookMark BookMarkName="Giant Fire-Breathing Shield" PosX="1042910.0" PosY="12782.0" PosZ="223856.0" />
+</WorldmapBookMark>

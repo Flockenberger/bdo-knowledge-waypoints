@@ -1,4 +1,8 @@
 # Saunils
+
+This folder contains 13/13 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
@@ -18,6 +22,7 @@ They may instead point to locations such as mobs (monsters) or other entities th
     Created by: flockenberger
 -->
 <WorldmapBookMark>
+    <BookMark BookMarkName="Saunil Commander" PosX="-202761.0" PosY="405.3070068359375" PosZ="-195260.0" />
     <BookMark BookMarkName="Saunil Vanguard" PosX="-238789.0" PosY="-294.739990234375" PosZ="-171355.984375" />
     <BookMark BookMarkName="Saunil Elite Soldier" PosX="-238600.015625" PosY="-240.92999267578125" PosZ="-171460.96875" />
     <BookMark BookMarkName="Saunil Archer" PosX="-220245.03125" PosY="262.9599914550781" PosZ="-175342.96875" />
@@ -33,4 +38,4 @@ They may instead point to locations such as mobs (monsters) or other entities th
 </WorldmapBookMark>
 ```
 
-<img src="./Saunils_Saunil Vanguard_Preview.webp" width="450"/> <img src="./Saunils_Saunil Elite Soldier_Preview.webp" width="450"/> <img src="./Saunils_Saunil Archer_Preview.webp" width="450"/> <img src="./Saunils_Saunil Warrior_Preview.webp" width="450"/> <img src="./Saunils_Saunil Guard_Preview.webp" width="450"/> <img src="./Saunils_Saunil Siege Tower_Preview.webp" width="450"/> <img src="./Saunils_Saunil Mobile Catapult_Preview.webp" width="450"/> <img src="./Saunils_Saunil Immobile Catapult_Preview.webp" width="450"/> <img src="./Saunils_Saunil Brawler_Preview.webp" width="450"/> <img src="./Saunils_Saunil Elder_Preview.webp" width="450"/> <img src="./Saunils_Saunil Armored Warrior_Preview.webp" width="450"/> <img src="./Saunils_Saunil Fighter_Preview.webp" width="450"/> 
+<img src="./Saunils_Saunil Commander_Preview.webp" width="450"/> <img src="./Saunils_Saunil Vanguard_Preview.webp" width="450"/> <img src="./Saunils_Saunil Elite Soldier_Preview.webp" width="450"/> <img src="./Saunils_Saunil Archer_Preview.webp" width="450"/> <img src="./Saunils_Saunil Warrior_Preview.webp" width="450"/> <img src="./Saunils_Saunil Guard_Preview.webp" width="450"/> <img src="./Saunils_Saunil Siege Tower_Preview.webp" width="450"/> <img src="./Saunils_Saunil Mobile Catapult_Preview.webp" width="450"/> <img src="./Saunils_Saunil Immobile Catapult_Preview.webp" width="450"/> <img src="./Saunils_Saunil Brawler_Preview.webp" width="450"/> <img src="./Saunils_Saunil Elder_Preview.webp" width="450"/> <img src="./Saunils_Saunil Armored Warrior_Preview.webp" width="450"/> <img src="./Saunils_Saunil Fighter_Preview.webp" width="450"/> 

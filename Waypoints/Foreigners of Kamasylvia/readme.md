@@ -1,4 +1,18 @@
 # Foreigners of Kamasylvia
+
+This folder contains 11/13 waypoints of this knowledge category!
+
+The following knowledge entries are currently missing: 
+
+```
+Martha Kiyen
+```
+
+```
+Jensen
+```
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:

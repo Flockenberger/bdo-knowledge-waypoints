@@ -1,4 +1,8 @@
 # People of Gyeongbokgung Palace
+
+This folder contains 29/29 waypoints of this knowledge category!
+
+
 Created by **flockenberger**
 
 ## ⚠️ Disclaimer:
