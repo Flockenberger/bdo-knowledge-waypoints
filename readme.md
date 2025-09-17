@@ -1,5 +1,7 @@
 # 📍 Black Desert Online – Knowledge Waypoints
 
+THIS REPOSITORY IS A WORK IN PROGRESS. STUFF MAY BE INCOMPLETE OR MISSING!
+
 This repository contains a collection of Knowledge Waypoint files for Black Desert Online (BDO).
 These waypoints provide quick access to various in-game locations.
 
